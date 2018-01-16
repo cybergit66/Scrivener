@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="TerenceHP" Modified="2017-05-19 21:31:45 -0500" ModID="19AE66EB-1444-479F-B5EF-D2CF6C301C9E">
+    <Binder>
+        <BinderItem ID="0" UUID="2AF249F4-28BF-4567-B928-0D75C6948F5B" Created="2017-05-17 22:40:53 -0500" Modified="2017-05-17 22:40:53 -0500" Type="DraftFolder">
+            <Title>Draft</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="3" UUID="1D32E8E5-38EA-43FC-9530-E1429A758FFF" Created="2017-05-17 22:40:53 -0500" Modified="2017-05-17 22:40:53 -0500" Type="Text">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="1" UUID="2B9D9F07-6490-4C2E-A3B5-749ABE6DB43B" Created="2017-05-17 22:40:53 -0500" Modified="2017-05-17 22:40:53 -0500" Type="ResearchFolder">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="6" UUID="49B7646F-2D97-474E-BE3D-4A8042B96B77" Created="2017-05-17 22:52:54 -0500" Modified="2017-05-17 22:54:00 -0500" Type="Text">
+                    <Title>Exegetical Steps</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>702,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="7" UUID="33D0C82D-3B8A-4762-ACDF-43D8A09F5C85" Created="2017-05-17 22:55:43 -0500" Modified="2017-05-17 22:55:44 -0500" Type="Text">
+                    <Title>ExegesisPaperOutline</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="4" UUID="6A173B73-D3F6-43CA-8C12-D3BD7AE96348" Created="2017-05-17 22:47:16 -0500" Modified="2017-05-17 22:47:34 -0500" Type="Folder">
+            <Title>Worksheets</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <Children>
+                <BinderItem ID="8" UUID="DFAA2B9A-42AA-46A4-9EB0-0CEBF3E33982" Created="2017-05-17 22:58:07 -0500" Modified="2017-05-17 23:18:08 -0500" Type="Text">
+                    <Title>LanguageQuestions</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1956,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="9" UUID="21066290-132A-4636-A9F7-BFF5041C3C3F" Created="2017-05-17 22:59:00 -0500" Modified="2017-05-17 23:01:25 -0500" Type="Text">
+                    <Title>Lexicography</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>897,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="10" UUID="E66CC2C8-8AF4-450F-A8EF-CB880B89BAE5" Created="2017-05-17 22:59:45 -0500" Modified="2017-05-17 23:02:06 -0500" Type="Text">
+                    <Title>Textual Questions</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="11" UUID="20E47CE3-69E1-4B1E-8B46-FC471FC40A06" Created="2017-05-17 23:02:58 -0500" Modified="2017-05-19 21:31:43 -0500" Type="Text">
+                    <Title>Structure questions</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="12" UUID="CCDCF50F-58DA-40B0-B5E2-D8AB5A4E975B" Created="2017-05-17 23:18:46 -0500" Modified="2017-05-17 23:19:21 -0500" Type="Text">
+                    <Title>TextualConnections</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1422,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="13" UUID="690716E5-1EB5-4838-8455-1EABA5682D24" Created="2017-05-17 23:21:06 -0500" Modified="2017-05-18 17:52:49 -0500" Type="Text">
+                    <Title>TheologicalWorksheet</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="2" UUID="3AB19416-5130-482A-82D7-1B1DA7F6A667" Created="2017-05-17 22:40:53 -0500" Modified="2017-05-17 22:40:53 -0500" Type="TrashFolder">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="5" UUID="C3BA1ADC-A704-422E-B6C4-B237B814BC1E" Created="2017-05-17 22:51:59 -0500" Modified="2017-05-17 22:54:46 -0500" Type="Folder">
+                    <Title>Exegetical Steps</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+    </Binder>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.752941 0.752941 1.000000">Concept</Label>
+            <Label ID="1" Color="1.000000 0.752941 0.752941">Chapter</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">N/A</Status>
+            <Status ID="1">To Do</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets>
+        <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2017-05-17 22:40:53 -0500"/>
+    </ProjectTargets>
+    <Collections>
+        <Collection Type="Binder" ID="76727DCB-08D1-44CA-B9EE-DB2FC6AEF20A" Color="0.901961 0.917647 0.933333">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="7125FDA0-2B6C-4B4F-8684-F413D5712C51" Color="0.901961 0.901961 0.980392">
+            <Title>Search Results</Title>
+            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No"></SearchSettings>
+        </Collection>
+    </Collections>
+    <PrintSettings PaperType="Letter" LeftMargin="8.39057" RightMargin="8.39057" TopMargin="8.39057" BottomMargin="8.39057" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
+</ScrivenerProject>

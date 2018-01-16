@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="TerenceHP" Modified="2017-07-12 19:06:19 -0500" ModID="231A3DAA-4B9B-4C38-B292-3A4C0AEB99B2">
+    <Binder>
+        <BinderItem ID="0" UUID="3711AF64-E340-4BC4-B226-B573DDBF5224" Created="2017-05-14 22:36:05 -0500" Modified="2017-05-14 22:36:05 -0500" Type="DraftFolder">
+            <Title>Draft</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="34" UUID="6D3A654D-1B08-475F-808E-7E118A982B3A" Created="2017-06-15 23:11:15 -0500" Modified="2017-06-16 22:22:39 -0500" Type="Text">
+                    <Title>Genesis 47 ESV</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>10279,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="3" UUID="96B8420A-FD8E-4DC8-8361-8A4F13772737" Created="2017-05-14 22:36:05 -0500" Modified="2017-05-17 22:35:52 -0500" Type="Text">
+                    <Title>Genesis 43</Title>
+                    <MetaData/>
+                    <TextSettings>
+                        <TextSelection>15887,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="14" UUID="F9CA1589-7732-4CF0-9209-120ED2327821" Created="2017-05-16 22:33:00 -0500" Modified="2017-05-17 22:33:39 -0500" Type="Text">
+                    <Title>Genesis 44</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>297,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="26" UUID="8859BD4F-9B38-4D67-B4EB-58DFBA131F54" Created="2017-06-03 22:04:37 -0500" Modified="2017-06-04 00:17:44 -0500" Type="Text">
+                    <Title>Genesis 45</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>901,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="30" UUID="1311AB1C-338F-4E94-96A4-36DFF0DA4F99" Created="2017-06-10 13:02:44 -0500" Modified="2017-06-10 15:38:33 -0500" Type="Text">
+                    <Title>Genesis 46</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="38" UUID="77920D65-75EC-49E5-86E1-7A5EE77656CB" Created="2017-06-24 16:48:50 -0500" Modified="2017-06-24 20:56:55 -0500" Type="Text">
+                    <Title>Ge 48 ESV</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>16404,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="49" UUID="705DD0DB-D9DA-4A73-82EF-4C8CA37406E7" Created="2017-07-02 00:13:02 -0500" Modified="2017-07-02 01:14:42 -0500" Type="Text">
+                    <Title>Genesis 49</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>16777,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="52" UUID="07D00EDC-82D8-4193-9B77-A78DD57F08A8" Created="2017-07-08 23:22:44 -0500" Modified="2017-07-08 23:58:47 -0500" Type="Text">
+                    <Title>Genesis 50</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>968,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="1" UUID="4B8192CD-6852-4B55-97DE-E89EB8B23F7C" Created="2017-05-14 22:36:05 -0500" Modified="2017-05-14 22:36:05 -0500" Type="ResearchFolder">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="4" UUID="90F04B7D-49B1-4830-A100-710E03334427" Created="2017-05-14 22:49:13 -0500" Modified="2017-05-14 22:49:21 -0500" Type="Folder">
+                    <Title>Genesis 44</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="7" UUID="059733FC-2048-438D-8D84-7A4E69C88EF7" Created="2017-05-14 23:00:27 -0500" Modified="2017-05-15 20:49:49 -0500" Type="Text">
+                            <Title>Genesis44 Text</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1388,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="8" UUID="9CBFF0FF-B6ED-409E-B8B9-3A6E3E945BDE" Created="2017-05-14 23:04:14 -0500" Modified="2017-05-15 22:03:51 -0500" Type="Text">
+                            <Title>Gen 44 ESV</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2693,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="10" UUID="3C8801AA-7121-4DC4-A235-7CE8EF4D6AFD" Created="2017-05-15 22:49:21 -0500" Modified="2017-05-15 22:49:21 -0500" Type="Text">
+                            <Title>Gen 44 Hamilton</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>7418,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="11" UUID="600F6290-8A36-4881-B3D7-3EBA960751CB" Created="2017-05-15 23:18:43 -0500" Modified="2017-05-15 23:18:43 -0500" Type="Text">
+                            <Title>Gen 44 A Commentary</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>3820,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="12" UUID="D45BBDE6-A65C-40B9-880D-4C76CF5BFE00" Created="2017-05-15 23:34:28 -0500" Modified="2017-05-15 23:34:28 -0500" Type="Text">
+                            <Title>Gen 44 Leadership Ministries</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>6162,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="13" UUID="B45433F3-0DAC-431D-9855-E8F0BC26BF38" Created="2017-05-16 22:21:04 -0500" Modified="2017-05-16 22:21:04 -0500" Type="Text">
+                            <Title>Gen 44 Wilcox</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>299,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="6" UUID="8E2C3194-3512-4E8D-B459-023B0E6C5832" Created="2017-05-14 22:59:33 -0500" Modified="2017-05-14 23:00:09 -0500" Type="Folder">
+                    <Title>Questions</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="5" UUID="0857D5F8-C4A4-4C15-B5C3-1422EAB7701D" Created="2017-05-14 22:55:41 -0500" Modified="2017-05-14 22:55:41 -0500" Type="Text">
+                            <Title>Genesis44</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>755,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="16" UUID="F7A50B74-7A74-4E42-8FF5-BFC483C67512" Created="2017-05-20 22:23:56 -0500" Modified="2017-05-20 22:23:57 -0500" Type="Text">
+                            <Title>Genesis45</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>710,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="15" UUID="15502B4A-C1B0-46AA-ABE5-13104CD7C3DA" Created="2017-05-20 22:22:13 -0500" Modified="2017-05-20 22:22:28 -0500" Type="Folder">
+                    <Title>Genesis 45</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="17" UUID="395CE352-A519-440E-BD04-38995015F10C" Created="2017-05-20 22:25:14 -0500" Modified="2017-05-23 20:36:59 -0500" Type="Text">
+                            <Title>Genesis45 MyAnswers</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1871,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="18" UUID="121AF39C-AD31-425B-96C6-C43EB2103CD4" Created="2017-05-20 22:30:07 -0500" Modified="2017-05-23 20:34:40 -0500" Type="Text">
+                            <Title>Gen 45 ESV</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1620,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="23" UUID="55A49BFA-761C-467F-9EC3-926F2A336E08" Created="2017-06-03 21:21:57 -0500" Modified="2017-06-03 21:21:57 -0500" Type="Text">
+                            <Title>Gen 45 Hamilton</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>8384,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="24" UUID="41F83A55-35A5-4FAE-A2B4-C690BDA03C37" Created="2017-06-03 21:40:40 -0500" Modified="2017-06-03 21:40:40 -0500" Type="Text">
+                            <Title>Gen 45 Waltke</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>9369,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="25" UUID="E064663E-E31F-476B-A24F-230967A9E65A" Created="2017-06-03 22:03:53 -0500" Modified="2017-06-03 22:03:53 -0500" Type="Text">
+                            <Title>Gen 45 Leadership Ministries</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>7875,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="19" UUID="2DB06100-FA34-45AD-9F06-0771DDCBA8E3" Created="2017-06-02 20:22:18 -0500" Modified="2017-06-02 20:22:27 -0500" Type="Folder">
+                    <Title>Genesis 46</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="20" UUID="3CAE8955-0C12-4AEA-A3F5-68CE3D127167" Created="2017-06-02 20:22:44 -0500" Modified="2017-06-02 20:23:46 -0500" Type="Text">
+                            <Title>Gen 46 ESV</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1590,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="22" UUID="5172FE55-43CB-4DED-BAAC-E70939725C8A" Created="2017-06-02 20:27:35 -0500" Modified="2017-06-02 20:27:35 -0500" Type="Text">
+                            <Title>Genesis46</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>465,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="27" UUID="F05CAD7E-A13C-4259-B279-7FE8D263CFCB" Created="2017-06-05 21:46:20 -0500" Modified="2017-06-05 21:46:20 -0500" Type="Text">
+                            <Title>Gen 46 Hamilton</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>9826,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="28" UUID="87A11A93-0D60-4DEB-B2D5-4849A3CB6416" Created="2017-06-05 22:01:36 -0500" Modified="2017-06-05 22:01:36 -0500" Type="Text">
+                            <Title>Genesis 46 Waltke</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>8065,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="29" UUID="7E0689DF-A626-4FF0-8888-53745D5A9609" Created="2017-06-09 14:47:06 -0500" Modified="2017-06-09 14:47:06 -0500" Type="Text">
+                            <Title>Genesis46LeadershipMinistries</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>285,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="31" UUID="543460FB-A90F-4EA1-AD70-FC9D1D6551A0" Created="2017-06-15 23:06:44 -0500" Modified="2017-06-15 23:06:50 -0500" Type="Folder">
+                    <Title>Genesis 47</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="32" UUID="E71CC466-F154-435E-B5FB-F48B2A0387BC" Created="2017-06-15 23:07:06 -0500" Modified="2017-06-15 23:07:06 -0500" Type="Text">
+                            <Title>Gen 47 Hamilton</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>8274,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="33" UUID="71B856B8-6DC9-451B-8E80-77F791AB90A7" Created="2017-06-15 23:07:47 -0500" Modified="2017-06-16 21:35:44 -0500" Type="Text">
+                            <Title>Genesis 47 Questions</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection Caret="1866">1805,61</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="35" UUID="4CA5298E-5BD8-40C5-AA84-13AF91A48AF8" Created="2017-06-15 23:22:32 -0500" Modified="2017-06-15 23:22:32 -0500" Type="Text">
+                            <Title>Gen 47 Waltke</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>3072,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="36" UUID="46DA71DB-F72C-41F3-BBB8-AFCF54907CAA" Created="2017-06-16 21:25:22 -0500" Modified="2017-06-16 21:25:22 -0500" Type="Text">
+                            <Title>Gen 47 Leadership Ministries</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>8031,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="37" UUID="94BCC395-2846-4910-9F27-0189FAF050EA" Created="2017-06-24 16:48:26 -0500" Modified="2017-06-24 16:48:35 -0500" Type="Folder">
+                    <Title>Genesis 48</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="39" UUID="466EFFED-8252-4B0D-9EEA-097971C89C0D" Created="2017-06-24 17:00:54 -0500" Modified="2017-06-24 17:00:55 -0500" Type="Text">
+                            <Title>Genesis 48 Questions</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2919,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="40" UUID="C91FDA35-FB51-4EC3-BDCA-32E8DE8962BE" Created="2017-06-24 18:11:54 -0500" Modified="2017-06-24 19:38:18 -0500" Type="Text">
+                            <Title>Gen 48 Hamilton</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>11058,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="41" UUID="F43AAAF1-FA8F-4281-BAF5-DE0B506126B0" Created="2017-06-24 18:42:22 -0500" Modified="2017-06-24 20:21:21 -0500" Type="Text">
+                            <Title>Gen 48 Waltke</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>9348,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="42" UUID="E3E0C51A-5A35-430D-A705-43EB50FD8BE8" Created="2017-06-24 18:47:37 -0500" Modified="2017-06-24 18:47:37 -0500" Type="Text">
+                            <Title>Gen 48 Leadership Ministries</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>561,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="43" UUID="94DB0DA4-B727-4914-A77E-CF040AAB4844" Created="2017-06-25 17:54:38 -0500" Modified="2017-06-25 17:54:45 -0500" Type="Folder">
+                    <Title>Genesis 49</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="44" UUID="DC4D204D-FC4E-41C2-ADBD-3213AE0951A2" Created="2017-06-25 17:54:19 -0500" Modified="2017-06-25 17:54:19 -0500" Type="Text">
+                            <Title>Genesis 49 Questions</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>794,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="45" UUID="FFBD541A-E821-45AF-ADAE-CDF240E9F5D0" Created="2017-06-25 17:55:27 -0500" Modified="2017-07-02 00:12:29 -0500" Type="Text">
+                            <Title>Ge 49 ESV</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection Caret="4214">0,4214</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="46" UUID="2B544B68-BA16-44CC-A9CC-36CC57DEB74C" Created="2017-07-01 12:06:52 -0500" Modified="2017-07-01 12:06:52 -0500" Type="Text">
+                            <Title>Gen 49 Hamilton</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>21122,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="47" UUID="EE1C40A6-0E4B-4A8F-A295-BA59F8CFD112" Created="2017-07-02 00:09:54 -0500" Modified="2017-07-02 00:38:46 -0500" Type="Text">
+                            <Title>Gen 49 Leadership Ministries</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>13650,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="48" UUID="07D142E1-59C1-4998-B89F-FE7BFE102022" Created="2017-07-02 00:11:07 -0500" Modified="2017-07-02 00:11:07 -0500" Type="Text">
+                            <Title>Genesis49Waltke</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>11338,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="50" UUID="9F76DB81-B26D-4964-9D56-FC3B9DF779BC" Created="2017-07-08 23:16:37 -0500" Modified="2017-07-08 23:16:44 -0500" Type="Folder">
+                    <Title>Genesis 50</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="51" UUID="5FB71055-D7D8-47B9-A12A-D1DBE4E29E2C" Created="2017-07-08 23:16:58 -0500" Modified="2017-07-08 23:22:16 -0500" Type="Text">
+                            <Title>Ge 50 ESV</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>3253,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="53" UUID="08509AAA-6E61-49A4-A89A-4BFD6BE6DE35" Created="2017-07-08 23:24:57 -0500" Modified="2017-07-08 23:24:57 -0500" Type="Text">
+                            <Title>HamiltonGenesis50</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>7688,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="54" UUID="CC9137CF-CFCE-41BA-A8E3-BCF14788AF50" Created="2017-07-08 23:24:35 -0500" Modified="2017-07-08 23:24:36 -0500" Type="Text">
+                            <Title>LeadershipMinistriesGenesis50</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection Caret="8102">6872,1230</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="55" UUID="8C17EA30-EE5D-42FC-BE76-7F1613C7AA39" Created="2017-07-08 23:25:18 -0500" Modified="2017-07-08 23:32:16 -0500" Type="Text">
+                            <Title>WaltkeGenesis50</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>6991,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="56" UUID="02C0185B-7F03-4B04-AC49-7C0B88EA4553" Created="2017-07-08 23:26:52 -0500" Modified="2017-07-08 23:26:53 -0500" Type="Text">
+                            <Title>Genesis50</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2081,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="2" UUID="7F4B5D11-7EA1-4436-841C-A348DA3A0349" Created="2017-05-14 22:36:05 -0500" Modified="2017-05-14 22:36:05 -0500" Type="TrashFolder">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="9" UUID="E0430403-C510-456D-8A06-B7F22A4096D9" Created="2017-05-15 20:50:09 -0500" Modified="2017-05-15 20:50:23 -0500" Type="Text">
+                    <Title>Genesis 44 Hamiliton</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>163,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="21" UUID="6C94B208-3948-4975-AA79-BE5AB7D8AE41" Created="2017-06-02 20:24:36 -0500" Modified="2017-06-02 20:27:02 -0500" Type="Text">
+                    <Title>Gen 46 MyAnswers</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+    </Binder>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.752941 0.752941 1.000000">Concept</Label>
+            <Label ID="1" Color="1.000000 0.752941 0.752941">Chapter</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">N/A</Status>
+            <Status ID="1">To Do</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <TemplateFolderUUID>8E2C3194-3512-4E8D-B459-023B0E6C5832</TemplateFolderUUID>
+    <ProjectTargets>
+        <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
+        <PreviousSession Words="31746" Characters="178455" Date="2017-06-15 22:44:45 -0500"/>
+    </ProjectTargets>
+    <Collections>
+        <Collection Type="Binder" ID="9C7EF42C-032D-49DB-9F58-C07F5D178C9A" Color="0.901961 0.917647 0.933333">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="69C147FA-36BF-4FD3-8422-67D31FE3EAA9" Color="0.901961 0.901961 0.980392">
+            <Title>Search Results</Title>
+            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No"></SearchSettings>
+        </Collection>
+    </Collections>
+    <PrintSettings PaperType="Letter" LeftMargin="8.39057" RightMargin="8.39057" TopMargin="8.39057" BottomMargin="8.39057" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
+</ScrivenerProject>
