@@ -5,43 +5,10 @@
             <Title>Front Matter</Title>
         </Document>
         <Document ID="4">
-            <Title>Chapter Subtitle</Title>
-        </Document>
-        <Document ID="5">
-            <Title>Title Page</Title>
-            <Synopsis>Title page to the manuscript.</Synopsis>
-            <Text>
-Your name
-Your address
-Your phone number
-Your e-mail address
-
-Your agent’s name
-Your agent’s address
-&lt;$wc100&gt; words.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;$projecttitle&gt;
-
-by &lt;$fullname&gt;</Text>
-            <Notes>This is the title page of the manuscript. Note that “Compile As-Is” is ticked - this ensures that the title page’s formatting doesn’t get changed during the Compile process, even though the formatting of other text documents will be overridden to use a standard 12-point manuscript font.
-
-The &lt;$projecttitle&gt; and &lt;$fullname&gt; tags get replaced with the information set in Project &gt; Meta-Data Settings… &gt; Project Properties. You can edit those settings or just replace this text altogether.</Notes>
+            <Title>Leave Your People</Title>
         </Document>
         <Document ID="6">
-            <Title>Section</Title>
+            <Title>Foundation</Title>
         </Document>
         <Document ID="7">
             <Title>Sample MS</Title>
@@ -112,6 +79,520 @@ Contents
         </Document>
         <Document ID="35">
             <Title>Sub-Section</Title>
+        </Document>
+        <Document ID="36">
+            <Title>Title Page</Title>
+        </Document>
+        <Document ID="37">
+            <Title>Go To A Land</Title>
+        </Document>
+        <Document ID="38">
+            <Title>Following God's Promise</Title>
+        </Document>
+        <Document ID="39">
+            <Title>Abraham in Egypt-Following Gods Promise</Title>
+        </Document>
+        <Document ID="40">
+            <Title>Initial Call</Title>
+        </Document>
+        <Document ID="41">
+            <Title>In Egypt</Title>
+        </Document>
+        <Document ID="42">
+            <Title>Foundation</Title>
+        </Document>
+        <Document ID="43">
+            <Title>Separation from the Past</Title>
+            <Text>It’s most likely that prior to God calling him Abram was an idolater, given what we read in Joshua 24:2 - “Thus says the LORD, the God of Israel, ‘Long ago, your fathers lived beyond the Euphrates, Terah, the father of Abraham and of Nahor; and they served other gods.’” God’s call to Abram necessitated that he disavow any allegiance to the gods of his fathers. The call demanded that he separate himself from idolatry.
+Separation from one’s past sinful life is generally known as repentance. One key Hebrew word (šûb - “turn”) expresses repentance as turning away from the wrong path, i.e., sinful behavior, and turning back toward God (DiFransico, Lexham Theological Wordbook). The same idea is found in the New Testament with the Greek word metanoeō which means “to change one’s mind”, resulting in an re-orientation of one’s life (Bauer, A Greek-English Lexicon of the New Testament and Other Early Christian Literature, 640). Paul’s recognition of the Thessalonians conversion in 1 Thessalonians 1:9-10 highlights the nature of true repentance - “For they themselves report concerning us the kind of reception we had among you, and how you turned to God from idols to serve the living and true God, and to wait for his Son from heaven, whom he raised from the dead, Jesus who delivers us from the wrath to come.” Just as God commanded Abram to leave his past behind and center his life on God’s promise, Jesus commands his followers leave behind their past way of living to serve him(Mark 1:15; Luke 13:3). 
+As we will learn from the life of Abraham, repentance is not just a one-time event in the life of the Christian. Though known as the father of the faithful, Abraham suffered many faith failures. Each one proved to be a learning experience and over the course of his life Abraham’s trust in God grew. As we come to awareness of the sins and vices that hinder and keep us from experiencing the joy of the Christian life, we realize that there exist much room for spiritual growth in our lives. We must resolve, through the power of the Holy Spirit, to eliminate sinful habits and attitudes that prevent us from fully pursuing the life God intends for us to live. On the other hand, we learn to develop and pursue a lifestyle that will bring honor to God. Just as He did with Abraham, God will provide us the grace to grow in our faith!</Text>
+        </Document>
+        <Document ID="44">
+            <Title>Fear in Egypt</Title>
+        </Document>
+        <Document ID="45">
+            <Title>Faith Through Conflict</Title>
+        </Document>
+        <Document ID="46">
+            <Title>Courageous Faith</Title>
+        </Document>
+        <Document ID="47"/>
+        <Document ID="48">
+            <Title>Counted As Righteous</Title>
+        </Document>
+        <Document ID="49">
+            <Title>Dealing With Doubt</Title>
+        </Document>
+        <Document ID="50">
+            <Title>A New Name</Title>
+        </Document>
+        <Document ID="51">
+            <Title>Believing the Impossible</Title>
+        </Document>
+        <Document ID="52">
+            <Title>Intercessory Faith</Title>
+        </Document>
+        <Document ID="53">
+            <Title>Fearful Again</Title>
+        </Document>
+        <Document ID="54">
+            <Title>Promise Fulfilled</Title>
+        </Document>
+        <Document ID="55">
+            <Title>The Pinnacle of Faith</Title>
+        </Document>
+        <Document ID="56">
+            <Title>Cornerstone</Title>
+        </Document>
+        <Document ID="57">
+            <Title>Inscription</Title>
+        </Document>
+        <Document ID="58">
+            <Title>Cornerstone</Title>
+        </Document>
+        <Document ID="59">
+            <Title>Inscription</Title>
+        </Document>
+        <Document ID="60">
+            <Title>Foundation</Title>
+        </Document>
+        <Document ID="61">
+            <Title>Cornerstone</Title>
+        </Document>
+        <Document ID="62">
+            <Title>Inscription</Title>
+        </Document>
+        <Document ID="63">
+            <Title>Foundation</Title>
+        </Document>
+        <Document ID="64">
+            <Title>Cornerstone</Title>
+        </Document>
+        <Document ID="65">
+            <Title>Inscription</Title>
+        </Document>
+        <Document ID="66">
+            <Title>Foundation</Title>
+        </Document>
+        <Document ID="67">
+            <Title>Cornerstone</Title>
+        </Document>
+        <Document ID="68">
+            <Title>Inscription</Title>
+        </Document>
+        <Document ID="69">
+            <Title>Foundation</Title>
+        </Document>
+        <Document ID="70">
+            <Title>Cornerstone</Title>
+        </Document>
+        <Document ID="71">
+            <Title>Inscription</Title>
+        </Document>
+        <Document ID="72">
+            <Title>Foundation</Title>
+        </Document>
+        <Document ID="73">
+            <Title>Cornerstone</Title>
+        </Document>
+        <Document ID="74">
+            <Title>Inscription</Title>
+        </Document>
+        <Document ID="75">
+            <Title>Foundation</Title>
+        </Document>
+        <Document ID="76">
+            <Title>Cornerstone</Title>
+        </Document>
+        <Document ID="77">
+            <Title>Inscription</Title>
+        </Document>
+        <Document ID="78">
+            <Title>Foundation</Title>
+        </Document>
+        <Document ID="79">
+            <Title>Cornerstone</Title>
+        </Document>
+        <Document ID="80">
+            <Title>Inscription</Title>
+        </Document>
+        <Document ID="81">
+            <Title>Foundation</Title>
+        </Document>
+        <Document ID="82">
+            <Title>Cornerstone</Title>
+        </Document>
+        <Document ID="83">
+            <Title>Inscription</Title>
+        </Document>
+        <Document ID="84">
+            <Title>Foundation</Title>
+        </Document>
+        <Document ID="85">
+            <Title>Cornerstone</Title>
+        </Document>
+        <Document ID="86">
+            <Title>Inscription</Title>
+        </Document>
+        <Document ID="87">
+            <Title>Foundation</Title>
+        </Document>
+        <Document ID="88">
+            <Title>Cornerstone</Title>
+        </Document>
+        <Document ID="89">
+            <Title>Inscription</Title>
+        </Document>
+        <Document ID="90">
+            <Title>Foundation</Title>
+        </Document>
+        <Document ID="91">
+            <Title>Cornerstone</Title>
+        </Document>
+        <Document ID="92">
+            <Title>Inscription</Title>
+        </Document>
+        <Document ID="93">
+            <Title>Leave Your People</Title>
+        </Document>
+        <Document ID="94">
+            <Title>Genesis 12:1</Title>
+        </Document>
+        <Document ID="95">
+            <Title>Historical Context</Title>
+        </Document>
+        <Document ID="96">
+            <Title>Literary Context</Title>
+        </Document>
+        <Document ID="97">
+            <Title>Int Question</Title>
+        </Document>
+        <Document ID="98">
+            <Title>Application</Title>
+        </Document>
+        <Document ID="99">
+            <Title>Application</Title>
+        </Document>
+        <Document ID="100">
+            <Title>Application</Title>
+        </Document>
+        <Document ID="101">
+            <Title>Go To A Land</Title>
+        </Document>
+        <Document ID="102">
+            <Title>Application</Title>
+        </Document>
+        <Document ID="103">
+            <Title>Cornerstone - Leave Your People</Title>
+        </Document>
+        <Document ID="104">
+            <Title>Literary Context</Title>
+        </Document>
+        <Document ID="105">
+            <Title>Historical Background</Title>
+        </Document>
+        <Document ID="106">
+            <Title>Historical Context</Title>
+        </Document>
+        <Document ID="107">
+            <Title>Observation</Title>
+        </Document>
+        <Document ID="108">
+            <Title>Observation</Title>
+        </Document>
+        <Document ID="109">
+            <Title>Observation/Int</Title>
+        </Document>
+        <Document ID="110">
+            <Title>Observation</Title>
+        </Document>
+        <Document ID="111">
+            <Title>Application </Title>
+        </Document>
+        <Document ID="112">
+            <Title>NT Context</Title>
+        </Document>
+        <Document ID="113">
+            <Title>Application</Title>
+        </Document>
+        <Document ID="114">
+            <Title>Application</Title>
+        </Document>
+        <Document ID="115">
+            <Title>Application</Title>
+        </Document>
+        <Document ID="116">
+            <Title>Application</Title>
+        </Document>
+        <Document ID="117">
+            <Title>Observation</Title>
+        </Document>
+        <Document ID="118">
+            <Title>Literary Context</Title>
+        </Document>
+        <Document ID="119">
+            <Title>Observation</Title>
+        </Document>
+        <Document ID="120">
+            <Title>Historical Context</Title>
+        </Document>
+        <Document ID="121">
+            <Title>Historical Context</Title>
+        </Document>
+        <Document ID="122">
+            <Title>Literary Context</Title>
+        </Document>
+        <Document ID="123">
+            <Title>Interpretation</Title>
+        </Document>
+        <Document ID="124">
+            <Title>Interpretation</Title>
+        </Document>
+        <Document ID="125">
+            <Title>Observation/Application</Title>
+        </Document>
+        <Document ID="126">
+            <Title>Application</Title>
+        </Document>
+        <Document ID="127">
+            <Title>Application</Title>
+        </Document>
+        <Document ID="128">
+            <Title>Application</Title>
+        </Document>
+        <Document ID="129">
+            <Title>Application</Title>
+        </Document>
+        <Document ID="130">
+            <Title>Application</Title>
+        </Document>
+        <Document ID="131">
+            <Title>Application</Title>
+        </Document>
+        <Document ID="132">
+            <Title>Application</Title>
+        </Document>
+        <Document ID="133">
+            <Title>Application</Title>
+        </Document>
+        <Document ID="134">
+            <Title>Literary Context</Title>
+        </Document>
+        <Document ID="135">
+            <Title>Application</Title>
+        </Document>
+        <Document ID="136">
+            <Title>Application</Title>
+        </Document>
+        <Document ID="137">
+            <Title>Application</Title>
+        </Document>
+        <Document ID="138">
+            <Title>Application</Title>
+        </Document>
+        <Document ID="139">
+            <Title>Literary/Application</Title>
+        </Document>
+        <Document ID="140">
+            <Title>Literary Context</Title>
+        </Document>
+        <Document ID="141">
+            <Title>Literary Context</Title>
+        </Document>
+        <Document ID="142">
+            <Title>Literary Context</Title>
+        </Document>
+        <Document ID="143">
+            <Title>Literary Context</Title>
+        </Document>
+        <Document ID="144">
+            <Title>Application</Title>
+        </Document>
+        <Document ID="145">
+            <Title>Observation</Title>
+        </Document>
+        <Document ID="146">
+            <Title>Historical Context</Title>
+        </Document>
+        <Document ID="147">
+            <Title>Observation</Title>
+        </Document>
+        <Document ID="148">
+            <Title>NT Context</Title>
+        </Document>
+        <Document ID="149">
+            <Title>NT Context</Title>
+        </Document>
+        <Document ID="150">
+            <Title>Literary Context</Title>
+        </Document>
+        <Document ID="151">
+            <Title>Literary Context</Title>
+        </Document>
+        <Document ID="152">
+            <Title>Observation</Title>
+        </Document>
+        <Document ID="153">
+            <Title>Application</Title>
+        </Document>
+        <Document ID="154">
+            <Title>Application</Title>
+        </Document>
+        <Document ID="155">
+            <Title>Application</Title>
+        </Document>
+        <Document ID="156">
+            <Title>Application</Title>
+        </Document>
+        <Document ID="157">
+            <Title>Application</Title>
+        </Document>
+        <Document ID="158">
+            <Title>Cultural Background</Title>
+        </Document>
+        <Document ID="159">
+            <Title>Application</Title>
+        </Document>
+        <Document ID="160">
+            <Title>Application</Title>
+        </Document>
+        <Document ID="161">
+            <Title>Application</Title>
+        </Document>
+        <Document ID="162">
+            <Title>Application</Title>
+        </Document>
+        <Document ID="163">
+            <Title>Application</Title>
+        </Document>
+        <Document ID="164">
+            <Title>Interpretation</Title>
+        </Document>
+        <Document ID="165">
+            <Title>Application</Title>
+        </Document>
+        <Document ID="166">
+            <Title>Interpretation</Title>
+        </Document>
+        <Document ID="167">
+            <Title>Literary Context</Title>
+        </Document>
+        <Document ID="168">
+            <Title>Historical Context</Title>
+        </Document>
+        <Document ID="169">
+            <Title>NT Background</Title>
+        </Document>
+        <Document ID="170">
+            <Title>Literary Context</Title>
+        </Document>
+        <Document ID="171">
+            <Title>Historical Background</Title>
+        </Document>
+        <Document ID="172">
+            <Title>Literary Context</Title>
+        </Document>
+        <Document ID="173">
+            <Title>Historical Context</Title>
+        </Document>
+        <Document ID="174">
+            <Title>NT Context</Title>
+        </Document>
+        <Document ID="175">
+            <Title>Separation from the World</Title>
+        </Document>
+        <Document ID="176">
+            <Title>Separation from Family and Friends</Title>
+        </Document>
+        <Document ID="177">
+            <Title>Repentance in OT</Title>
+        </Document>
+        <Document ID="178">
+            <Title>OT Context</Title>
+        </Document>
+        <Document ID="179">
+            <Title>Repentance</Title>
+        </Document>
+        <Document ID="180">
+            <Title>Repentance in NT</Title>
+        </Document>
+        <Document ID="181">
+            <Title>Repentance in NT</Title>
+        </Document>
+        <Document ID="182">
+            <Title>Repentance in  NT</Title>
+        </Document>
+        <Document ID="183">
+            <Title>Context</Title>
+        </Document>
+        <Document ID="184">
+            <Title>Separation from World</Title>
+        </Document>
+        <Document ID="185">
+            <Title>Observation</Title>
+            <Synopsis>What is the meaning of the term “world” that lies behind the exhortation μὴ ἀγαπᾶτε τὸν κόσμον μηδὲ τὰ ἐν τῷ κόσμῳ (“Do not love the world or the things in the world”)? That it is not the world as a creation of God, and that it is also not the world of men, is self-evident. It is the κόσμος οὗτος (“this world”) of 4:17*; Jn 12:31*; 16:11*; 18:36*; 1 Cor 3:19*; 5:10*; 7:31*; Eph 2:2*, in the sense of the sphere which is distinguished and separated from God, but not in the sense of an active opposition to God and the believers, as in 3:13*; Jn 7:7*; 15:18f*, 24*; 17:14*, but rather in the sense of its nothingness, as v 17* shows.18
+
+Bultmann, R. K. (1973). The Johannine epistles a commentary on the Johannine epistles (pp. 32–33). Philadelphia: Fortress Press.</Synopsis>
+        </Document>
+        <Document ID="186">
+            <Title>Observation</Title>
+            <Synopsis>“And the world is passing away and the lust of it”). Παράγεται (“passing away”) does not have the same sense as in v 8*. It does not mean that the “world” is (now) passing away (as in 1 Cor 7:31*), but that, as “world,” it is transitory.28
+
+Bultmann, R. K. (1973). The Johannine epistles a commentary on the Johannine epistles (p. 34). Philadelphia: Fortress Press.</Synopsis>
+        </Document>
+        <Document ID="187">
+            <Title>Observation</Title>
+            <Synopsis>The various meanings that the word ‘world’ carries in 1 John have been listed above (see comment on 2:2). There can be no doubt that in the present context it means ‘worldly attitudes or values that are opposed to God’ (cf. Jas 4:4). 
+
+Kruse, C. G. (2000). The letters of John (p. 94). Grand Rapids, MI; Leicester, England: W.B. Eerdmans Pub.; Apollos.</Synopsis>
+        </Document>
+        <Document ID="188">
+            <Title>Observation</Title>
+            <Synopsis>What it means to love the world becomes evident as this section unfolds, but, in a word, it means to be taken up with all that is in the world (as defined in 2:16) instead of seeking to do the will of God.
+
+Kruse, C. G. (2000). The letters of John (p. 95). Grand Rapids, MI; Leicester, England: W.B. Eerdmans Pub.; Apollos.</Synopsis>
+        </Document>
+        <Document ID="189">
+            <Title>Observation</Title>
+            <Synopsis>But in the present context it is clear that ‘the love of the Father’ means the believers’ love for the Father, because it stands in opposition to believers’ love for the world. What the whole conditional sentence conveys, then, is that if people love the ‘world’, they do not love the Father.
+
+Kruse, C. G. (2000). The letters of John (p. 95). Grand Rapids, MI; Leicester, England: W.B. Eerdmans Pub.; Apollos.</Synopsis>
+        </Document>
+        <Document ID="190">
+            <Title>Observation</Title>
+            <Synopsis>To make his point the author gives a definition of everything in the world. This definition involves three elements. The first of these is the cravings of sinful man (lit. ‘the desire of the flesh’ [hē epithymia tēs sarkos]). The word “desire” (epithymia) is found 38 times in the NT. In only three places does it have positive connotations (Luke 22:15; Phil 1:23; 1 Thess 2:17); in all the rest it has morally negative connotations, as it does in the present context, where the NIV translates it as ‘cravings’. This is a general category, and the second and third elements of those things which comprise the world are subcategories.80 The second of them is the lust of his eyes (lit. ‘the desire of the eyes’), that is, those sinful cravings which are activated by what people see, and lead to covetousness. Covetousness is one part of what makes up the ‘cravings of sinful man’ in this context. The third element is his pride in possessions (lit. ‘pride of life’, alazoneia tou biou). The word bios has a range of meanings, including ‘life’, ‘livelihood’, ‘living’, ‘property’, and ‘possessions’. It is used in 3:17 clearly with the sense of property or possessions, and this is the predominant use of the word in the NT. To construe it here, then, as ‘possessions’, as the NIV does, not only makes good sense but is also in line with the only other use of the word in 1 John (see 3:17) and the predominant use in the NT. Being puffed up in pride because of one’s material possessions is the second of those things which make up the ‘cravings of sinful man’ in this passage.
+
+Kruse, C. G. (2000). The letters of John (pp. 95–96). Grand Rapids, MI; Leicester, England: W.B. Eerdmans Pub.; Apollos.</Synopsis>
+        </Document>
+        <Document ID="191">
+            <Title>Observation</Title>
+            <Synopsis>A characteristic contra factual argument suggests that the homeland that they sought could not be their earthly place of origin (vs. 15*). Rather, the goal of their wandering was and is heavenly (vs. 16*).
+
+Attridge, H. W., &amp; Koester, H. (1989). The Epistle to the Hebrews: a commentary on the Epistle to the Hebrews (p. 328). Philadelphia: Fortress Press.</Synopsis>
+        </Document>
+        <Document ID="192">
+            <Title>Application</Title>
+            <Synopsis>That better homeland is yet another symbol for the ultimate goal of the people of the new covenant, elsewhere described as salvation, glory, rest, or entry into God’s presence.
+
+Attridge, H. W., &amp; Koester, H. (1989). The Epistle to the Hebrews: a commentary on the Epistle to the Hebrews (p. 329). Philadelphia: Fortress Press.</Synopsis>
+        </Document>
+        <Document ID="193">
+            <Title>Application</Title>
+            <Synopsis>The situation of the patriarchs is, in important ways, analogous to that of the Christian addressees, whose commitment has alienated them from their earthly “homeland” (10:32–34*). These new sojourners will soon be summoned again to follow the ultimate example of faith by accepting the suffering that comes with their alien status (12:1–3*; 13:13*).
+
+Attridge, H. W., &amp; Koester, H. (1989). The Epistle to the Hebrews: a commentary on the Epistle to the Hebrews (p. 329). Philadelphia: Fortress Press.</Synopsis>
+        </Document>
+        <Document ID="194">
+            <Title>Application</Title>
+            <Synopsis>One might object that the patriarchal confession of their alien status indicated a nostalgic yearning to return to their Mesopotamian land of origin. If that were the case, they would, in their search for a homeland, “have in mind” (ἐμνημόνευον) the specific place from which they had “departed” (ἐξέβησαν). They could thus have attained their goal on earth, for they would have had “time to return” (καιρὸν38 ἀνακάμψαι).
+
+Attridge, H. W., &amp; Koester, H. (1989). The Epistle to the Hebrews: a commentary on the Epistle to the Hebrews (p. 331). Philadelphia: Fortress Press.</Synopsis>
+        </Document>
+        <Document ID="195">
+            <Title>Application</Title>
+            <Synopsis>Why the goal was better is indicated with the common explanatory “that is” (τοῦτʼ ἔστιν). The homeland is superior to Ur of the Chaldees or Haran because it is “heavenly” (ἐπουρανίου)
+
+Attridge, H. W., &amp; Koester, H. (1989). The Epistle to the Hebrews: a commentary on the Epistle to the Hebrews (p. 331). Philadelphia: Fortress Press.</Synopsis>
         </Document>
     </Documents>
 </SearchIndexes>
