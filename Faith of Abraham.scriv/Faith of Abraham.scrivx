@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="MSSLW17011324" Modified="2018-01-18 17:00:24 -0600" ModID="590BF386-26F5-4B4D-B4AF-9084845CF953">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="TerenceHP" Modified="2018-01-18 22:37:56 -0600" ModID="6E0E8D39-CC27-4B9F-80CC-D6A612BDED7B">
     <Binder>
         <BinderItem ID="12" UUID="0E804D2D-A3E2-40DD-856B-3E889E57F710" Created="2007-03-25 15:48:19 -0600" Modified="2014-05-23 04:12:06 -0600" Type="Text">
             <Title>Non-Fiction Format</Title>
@@ -65,23 +65,24 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="43" UUID="D6F528A1-4597-465D-A24B-98FFD85FE82F" Created="2018-01-10 07:15:15 -0600" Modified="2018-01-16 14:35:34 -0600" Type="Text">
+                                <BinderItem ID="43" UUID="D6F528A1-4597-465D-A24B-98FFD85FE82F" Created="2018-01-10 07:15:15 -0600" Modified="2018-01-18 20:35:49 -0600" Type="Text">
                                     <Title>Separation from the Past</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1590,0</TextSelection>
+                                        <TextSelection>1249,0</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="175" UUID="8B660C4E-21A4-4334-A7DA-A29870CFD347" Created="2018-01-14 19:56:31 -0600" Modified="2018-01-14 19:56:46 -0600" Type="Text">
+                                <BinderItem ID="175" UUID="8B660C4E-21A4-4334-A7DA-A29870CFD347" Created="2018-01-14 19:56:31 -0600" Modified="2018-01-18 22:37:30 -0600" Type="Text">
                                     <Title>Separation from the World</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
+                                        <TextSelection>1292,0</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                 </BinderItem>
@@ -1422,8 +1423,8 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="162" UUID="A97F14C7-E029-4DBE-A583-03511B188E68" Created="2018-01-12 17:22:23 -0600" Modified="2018-01-12 17:22:32 -0600" Type="Text">
-                                    <Title>Application</Title>
+                                <BinderItem ID="162" UUID="A97F14C7-E029-4DBE-A583-03511B188E68" Created="2018-01-12 17:22:23 -0600" Modified="2018-01-18 20:52:44 -0600" Type="Text">
+                                    <Title>NT Context</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
@@ -1431,8 +1432,8 @@
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="155" UUID="437C059F-8C19-4F56-9AFC-943D42D1BA1B" Created="2018-01-12 17:10:49 -0600" Modified="2018-01-12 17:10:56 -0600" Type="Text">
-                                    <Title>Application</Title>
+                                <BinderItem ID="155" UUID="437C059F-8C19-4F56-9AFC-943D42D1BA1B" Created="2018-01-12 17:10:49 -0600" Modified="2018-01-18 20:52:54 -0600" Type="Text">
+                                    <Title>NT Context</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
@@ -1440,8 +1441,8 @@
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="157" UUID="79CC9CA2-A62B-4834-ADFE-F85F309A056E" Created="2018-01-12 17:11:58 -0600" Modified="2018-01-12 17:12:05 -0600" Type="Text">
-                                    <Title>Application</Title>
+                                <BinderItem ID="154" UUID="9F8FE0F6-F45F-4D50-A956-B904BA134AA7" Created="2018-01-12 17:09:54 -0600" Modified="2018-01-18 20:55:35 -0600" Type="Text">
+                                    <Title>NT Context</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
@@ -1449,26 +1450,8 @@
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="161" UUID="A40EF5E3-BFD3-4316-9B25-AF3E07F3DB44" Created="2018-01-12 17:19:36 -0600" Modified="2018-01-12 17:20:04 -0600" Type="Text">
-                                    <Title>Application</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <Target Type="Words">0</Target>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="154" UUID="9F8FE0F6-F45F-4D50-A956-B904BA134AA7" Created="2018-01-12 17:09:54 -0600" Modified="2018-01-12 17:10:01 -0600" Type="Text">
-                                    <Title>Application</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <Target Type="Words">0</Target>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="135" UUID="DF5A48B5-C121-4A61-9C13-506AC7A8B5AA" Created="2018-01-11 22:03:15 -0600" Modified="2018-01-11 22:03:22 -0600" Type="Text">
-                                    <Title>Application</Title>
+                                <BinderItem ID="157" UUID="79CC9CA2-A62B-4834-ADFE-F85F309A056E" Created="2018-01-12 17:11:58 -0600" Modified="2018-01-18 20:55:14 -0600" Type="Text">
+                                    <Title>NT Context - 1 Jn</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
@@ -1477,15 +1460,6 @@
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="185" UUID="C78EC313-A01C-43F6-847B-DB63BB671F20" Created="2018-01-18 16:40:30 -0600" Modified="2018-01-18 16:48:01 -0600" Type="Text">
-                                    <Title>Observation</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <Target Type="Words">0</Target>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="186" UUID="1215B052-AA6D-4391-B843-E8418EE73351" Created="2018-01-18 16:44:29 -0600" Modified="2018-01-18 16:47:42 -0600" Type="Text">
                                     <Title>Observation</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -1530,6 +1504,33 @@
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                 </BinderItem>
+                                <BinderItem ID="186" UUID="1215B052-AA6D-4391-B843-E8418EE73351" Created="2018-01-18 16:44:29 -0600" Modified="2018-01-18 16:47:42 -0600" Type="Text">
+                                    <Title>Observation</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="197" UUID="FC019AE5-0F5F-48C7-B5B8-096FC617B8C4" Created="2018-01-18 20:44:36 -0600" Modified="2018-01-18 20:44:51 -0600" Type="Text">
+                                    <Title>NT Context - Heb.</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="196" UUID="CF5E362C-D8A2-4924-8250-1FB1B9BBB6D2" Created="2018-01-18 20:43:36 -0600" Modified="2018-01-18 20:44:17 -0600" Type="Text">
+                                    <Title>NT Context - Hebrews</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
                                 <BinderItem ID="191" UUID="E0E265C5-9BD3-466B-BA57-1BA9855EFA33" Created="2018-01-18 16:55:39 -0600" Modified="2018-01-18 16:56:18 -0600" Type="Text">
                                     <Title>Observation</Title>
                                     <MetaData>
@@ -1540,15 +1541,6 @@
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="192" UUID="E5B406F5-8599-42F8-9909-43A626EB245C" Created="2018-01-18 16:56:25 -0600" Modified="2018-01-18 16:57:01 -0600" Type="Text">
-                                    <Title>Application</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <Target Type="Words">0</Target>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="193" UUID="2388DD2C-486F-4F8E-A623-FCAB060BC474" Created="2018-01-18 16:57:08 -0600" Modified="2018-01-18 16:58:33 -0600" Type="Text">
                                     <Title>Application</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -1568,6 +1560,51 @@
                                 </BinderItem>
                                 <BinderItem ID="195" UUID="17B53943-E9CA-4A56-86D8-14EBB5CE5708" Created="2018-01-18 17:00:07 -0600" Modified="2018-01-18 17:00:22 -0600" Type="Text">
                                     <Title>Application</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="193" UUID="2388DD2C-486F-4F8E-A623-FCAB060BC474" Created="2018-01-18 16:57:08 -0600" Modified="2018-01-18 16:58:33 -0600" Type="Text">
+                                    <Title>Application</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="161" UUID="A40EF5E3-BFD3-4316-9B25-AF3E07F3DB44" Created="2018-01-12 17:19:36 -0600" Modified="2018-01-12 17:20:04 -0600" Type="Text">
+                                    <Title>Application</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="135" UUID="DF5A48B5-C121-4A61-9C13-506AC7A8B5AA" Created="2018-01-11 22:03:15 -0600" Modified="2018-01-11 22:03:22 -0600" Type="Text">
+                                    <Title>Application</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="198" UUID="168F0E6C-EDCA-47C4-A9E1-C0766C274807" Created="2018-01-18 21:03:59 -0600" Modified="2018-01-18 21:04:34 -0600" Type="Text">
+                                    <Title>Definition - Worldliness</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="199" UUID="0D53F8AA-CE00-466B-8E77-8EE83111D447" Created="2018-01-18 22:01:28 -0600" Modified="2018-01-18 22:04:06 -0600" Type="Text">
+                                    <Title>Worldliness</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
@@ -1712,7 +1749,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2018-01-18 13:03:12 -0600"/>
+        <PreviousSession Words="239" Characters="1291" Date="2018-01-18 20:22:59 -0600"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.901961 0.917647 0.933333">
