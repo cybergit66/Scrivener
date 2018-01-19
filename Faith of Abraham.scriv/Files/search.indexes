@@ -9,6 +9,8 @@
         </Document>
         <Document ID="6">
             <Title>Foundation</Title>
+            <Text>In less than ten generations after God commanded Noah and his sons to “Be fruitful and multiply and fill the earth” (Ge. 9:3, ESV), mankind had rebelled against God’s mandate and decided to build a world order apart from God’s guidance. It was this type of self-determination which lead the first family (Adam and Eve) to sin against God and plunged humanity into a cesspool of violence and immorality (Ge. 6:1-6). Humanity’s state of being and the conditions on earth grieved the Lord. In an act of judgment and mercy, God sent the Great Flood to destroy mankind, but he spared Noah and his family. This time, God’s reaction to mankind’s rebellion culminating at the Tower of Babel consisted of God dividing the world into nations. Through the lineage of Shem, God will initiate the next phase in His plan to crush the head of the Serpent by choosing one man to be his instrument to bless the world - Abraham.
+In Genesis 11:27-32, we learn that Abramham’s family originated in Ur of the Chaldeans. Scholars debate the precise identification of Ur, but most accept modern Tell el-Muqayyar in southern Iraq as the location. Lead by his father Terah, Abraham migrated with his family from Ur to Haran after the death of his brother Haran. Both Ur and Haran were ancient centers for the worship of the moon god Sin - we learn from Joshua 24:2 that Abraham’s family worshipped pagan deities. While living in Haran, Terah died and apparently Abraham (then known as Abram)assumed leadership of the clan which included his barren wife Sarai and his nephew Lot. </Text>
         </Document>
         <Document ID="7">
             <Title>Sample MS</Title>
@@ -82,12 +84,47 @@ Contents
         </Document>
         <Document ID="36">
             <Title>Title Page</Title>
+            <Synopsis>Title page to the manuscript.</Synopsis>
+            <Text>
+Terence Highsmith
+3726 Jamestown Rd NW, Huntsville, AL 35810
+256-975-7066
+Terence.highsmith@gmail.com
+
+&lt;$wc100&gt; words.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;$projecttitle&gt;
+
+by &lt;$fullname&gt;</Text>
+            <Notes>This is the title page of the manuscript. Note that “Compile As-Is” is ticked - this ensures that the title page’s formatting doesn’t get changed during the Compile process, even though the formatting of other text documents will be overridden to use a standard 12-point manuscript font.
+
+The &lt;$projecttitle&gt; and &lt;$fullname&gt; tags get replaced with the information set in Project &gt; Meta-Data Settings… &gt; Project Properties. You can edit those settings or just replace this text altogether.</Notes>
         </Document>
         <Document ID="37">
             <Title>Go To A Land</Title>
         </Document>
         <Document ID="38">
             <Title>Following God's Promise</Title>
+            <Synopsis>&quot;Abram's faith was again tested by trial (Gen 13:2­7). While Abram failed the early
+tests in Egypt, he acted selflessly later, allowing Lot to choose the best area of land.
+The pairing of these two stories develops a fuller picture of Abram's faith journey: He
+had both successes and failures when attempting to follow God's will. Together, these
+stories teach us that although our faith might not be perfect, God's continued faithful-
+ness to us is.&quot;
+</Synopsis>
         </Document>
         <Document ID="39">
             <Title>Abraham in Egypt-Following Gods Promise</Title>
@@ -105,7 +142,7 @@ Contents
             <Title>Separation from the Past</Title>
             <Text>It’s most likely that prior to God calling him Abram was an idolater, given what we read in Joshua 24:2 - “Thus says the LORD, the God of Israel, ‘Long ago, your fathers lived beyond the Euphrates, Terah, the father of Abraham and of Nahor; and they served other gods.’” God’s call to Abram necessitated that he disavow any allegiance to the gods of his fathers. The call demanded that he separate himself from idolatry.
 Separation from one’s past sinful life is generally known as repentance. One key Hebrew word (šûb - “turn”) expresses repentance as turning away from the wrong path, i.e., sinful behavior, and turning back toward God (DiFransico, Lexham Theological Wordbook). The same idea is found in the New Testament with the Greek word metanoeō which means “to change one’s mind”, resulting in an re-orientation of one’s life (Bauer, A Greek-English Lexicon of the New Testament and Other Early Christian Literature, 640). Paul’s recognition of the Thessalonians conversion in 1 Thessalonians 1:9-10 highlights the nature of true repentance - “For they themselves report concerning us the kind of reception we had among you, and how you turned to God from idols to serve the living and true God, and to wait for his Son from heaven, whom he raised from the dead, Jesus who delivers us from the wrath to come.” Just as God commanded Abram to leave his past behind and center his life on God’s promise, Jesus commands his followers leave behind their past way of living to serve him(Mark 1:15; Luke 13:3). 
-As we will learn from the life of Abraham, repentance is not just a one-time event in the life of the Christian. Though known as the father of the faithful, Abraham suffered many faith failures. Each one proved to be a learning experience and over the course of his life Abraham’s trust in God grew. As we come to awareness of the sins and vices that hinder and keep us from experiencing the joy of the Christian life, we realize that there exist much room for spiritual growth in our lives. We must resolve, through the power of the Holy Spirit, to eliminate sinful habits and attitudes that prevent us from fully pursuing the life God intends for us to live. On the other hand, we learn to develop and pursue a lifestyle that will bring honor to God. Just as He did with Abraham, God will provide us the grace to grow in our faith!</Text>
+As we will learn from the life of Abraham, repentance is not just a single experience in the life of the Christian. Though known as the father of the faithful, Abraham suffered many faith failures. Each one proved to be a learning experience and over the course of his life Abraham’s trust in God grew. As we come to awareness of the sins and vices that hinder and keep us from experiencing the joy of the Christian life, we realize that there exist much room for spiritual growth in our lives. We must resolve, through the power of the Holy Spirit, to eliminate sinful habits and attitudes that prevent us from fully pursuing the life God intends for us to live. On the other hand, we learn to develop and pursue a lifestyle that will bring honor to God. Just as He did with Abraham, God will provide us the grace to grow in our faith!</Text>
         </Document>
         <Document ID="44">
             <Title>Fear in Egypt</Title>
@@ -143,6 +180,11 @@ As we will learn from the life of Abraham, repentance is not just a one-time eve
         </Document>
         <Document ID="56">
             <Title>Cornerstone</Title>
+            <Text>The account of God’s interactions with Abram begins with a call for Abram to leave his ancestral people and homeland: ‘Now the LORD said to Abram, “Go from your country and your kindred and your father’s house to the land that I will show you”’(Gen. 12:1, ESV). Leaving the comfort of home, family, and familiar surroundings can be quite a challenge because such a transition can remove one from the love, care, acceptance, and security of a strong support system - especially in ancient nomadic cultures. 
+However, this is exactly what God demanded of Abram. The word “go” is lek-leka in Hebrew, which expresses that Abram is to “determinately dissociate himself” from his current environment (Bruce Waltke, Genesis: A commentary, 205). Hebrews 11:8 makes it clear that Abram forsook his home in obedience to God’s call. He obeyed not even knowing where he was going! He exchanged the known for the unknown, the familiar for the unfamiliar. God called Abram to a new life, but he had to leave his old life behind. Likewise, Christians have been called to a new life of discipleship which involves separation from the past life of sin, separation from the world, and possibly separation from family and friends.
+
+
+</Text>
         </Document>
         <Document ID="57">
             <Title>Inscription</Title>
@@ -257,246 +299,532 @@ As we will learn from the life of Abraham, repentance is not just a one-time eve
         </Document>
         <Document ID="94">
             <Title>Genesis 12:1</Title>
+            <Synopsis>12 Now the LORD said to Abram, “Go from your country and your kindred and your father’s house to the land that I will show you.
+
+The Holy Bible: English Standard Version. (2016). (Ge 12:1). Wheaton, IL: Crossway Bibles.</Synopsis>
         </Document>
         <Document ID="95">
             <Title>Historical Context</Title>
+            <Synopsis>Abraham was cradled in a world of polytheism and idolatry. His father, Terah, appropriately traveled from Ur to Haran, for both were ancient centers for the worship of the moon god Sin.</Synopsis>
         </Document>
         <Document ID="96">
             <Title>Literary Context</Title>
+            <Synopsis>27 Now these are the generations of Terah. Terah fathered Abram, Nahor, and Haran; and Haran fathered Lot. 28 Haran died in the presence of his father Terah in the land of his kindred, in Ur of the Chaldeans. 29 And Abram and Nahor took wives. The name of Abram’s wife was Sarai, and the name of Nahor’s wife, Milcah, the daughter of Haran the father of Milcah and Iscah. 30 Now Sarai was barren; she had no child. 
+31 Terah took Abram his son and Lot the son of Haran, his grandson, and Sarai his daughter-in-law, his son Abram’s wife, and they went forth together from Ur of the Chaldeans to go into the land of Canaan, but when they came to Haran, they settled there. 32 The days of Terah were 205 years, and Terah died in Haran. 
+
+
+The Holy Bible: English Standard Version. (2016). (Ge 11:27–32). Wheaton, IL: Crossway Bibles.</Synopsis>
         </Document>
         <Document ID="97">
             <Title>Int Question</Title>
+            <Synopsis>Why would God command Abram to leave his family and homeland? How easy was this for him to do?</Synopsis>
         </Document>
         <Document ID="98">
             <Title>Application</Title>
+            <Synopsis>In our pursuit of discipleship we are called to separate from the &quot;world system&quot;
+</Synopsis>
         </Document>
         <Document ID="99">
             <Title>Application</Title>
+            <Synopsis>In our pursuit of discipleship we are called to love Jesus more than family. Faith demands supreme love for Jesus
+</Synopsis>
         </Document>
         <Document ID="100">
             <Title>Application</Title>
+            <Synopsis>Faith demands a ruthless abandonment of our past way of living (repentance), of the world system
+Faith demands a ruthless abandonment of the past. Abraham has to leave the consolation of familiarity and tradition far behind. He has to jettison his family, his homeland, and the old ways of worship. But this abandonment leads to his fulfillment
+
+Waltke, B. K., &amp; Fredricks, C. J. (2001). Genesis: a commentary (p. 209). Grand Rapids, MI: Zondervan.</Synopsis>
         </Document>
         <Document ID="101">
             <Title>Go To A Land</Title>
         </Document>
         <Document ID="102">
             <Title>Application</Title>
+            <Synopsis>Faith demands that we seek first God's kingdom. See Matt 6:33; 22:37-38; Col. 3:2</Synopsis>
         </Document>
         <Document ID="103">
             <Title>Cornerstone - Leave Your People</Title>
+            <Synopsis>Talk about the post-flood world, tower of Babel, and  new phase in God's plan of redemption</Synopsis>
         </Document>
         <Document ID="104">
             <Title>Literary Context</Title>
+            <Synopsis>The introduction of Abram represents a major turning point in the story of Genesis. God’s previous interactions with humanity, from Adam to the Babel event, were marked by discord and conflict. Abram’s responsive acceptance of God contrasted sharply with humanity’s continual resistance (except for Noah; see Gen 6:9–8:22). With Abram, God finally found someone who embraced His offer of blessing in exchange for obedience.
+
+Grigoni, M. R., Custis, M., Mangum, D., &amp; Whitehead, M. M. (2012). Abraham: Following God’s Promise (Ge 11:27–12:9). Bellingham, WA: Lexham Press.</Synopsis>
         </Document>
         <Document ID="105">
             <Title>Historical Background</Title>
+            <Synopsis>Abram’s birthplace, “Ur of the Chaldeans,” refers either to a large ancient city in southern Mesopotamia or a smaller trading center in northwest Mesopotamia
+
+Grigoni, M. R., Custis, M., Mangum, D., &amp; Whitehead, M. M. (2012). Abraham: Following God’s Promise (Ge 11:27–12:9). Bellingham, WA: Lexham Press.</Synopsis>
         </Document>
         <Document ID="106">
             <Title>Historical Context</Title>
+            <Synopsis>Haran was a city on the upper Euphrates River in northwestern Mesopotamia
+
+Grigoni, M. R., Custis, M., Mangum, D., &amp; Whitehead, M. M. (2012). Abraham: Following God’s Promise (Ge 11:27–12:9). Bellingham, WA: Lexham Press.</Synopsis>
         </Document>
         <Document ID="107">
             <Title>Observation</Title>
+            <Synopsis>The Hebrew word moledeth can be used to refer to someone’s homeland (Ruth 2:11; Jer 22:10), birthplace (Jer 46:16; Ezek 16:3), relatives (Gen 43:7; Num 10:30), or children (Gen 48:6). Aside from its use in Gen 12:1, the word occurs eight more times in Genesis. Unfortunately, “birthplace” and “relatives” work equally well in many of the contexts where moledeth occurs. However, in Genesis 12:1 “birthplace” makes more sense than “relatives” since “father’s house” at the end of the list clearly indicates Abram’s extended family
+
+Grigoni, M. R., Custis, M., Mangum, D., &amp; Whitehead, M. M. (2012). Abraham: Following God’s Promise (Ge 11:27–12:9). Bellingham, WA: Lexham Press.</Synopsis>
         </Document>
         <Document ID="108">
             <Title>Observation</Title>
+            <Synopsis>Whether the Hebrew word moledeth refers to Abram’s relatives or to his birthplace (it could refer to either), God clearly called Abram from the familiar to the unknown.
+
+Grigoni, M. R., Custis, M., Mangum, D., &amp; Whitehead, M. M. (2012). Abraham: Following God’s Promise (Ge 11:27–12:9). Bellingham, WA: Lexham Press.</Synopsis>
         </Document>
         <Document ID="109">
             <Title>Observation/Int</Title>
+            <Synopsis> Abram didn’t know the details of how these events would unfold, but he believed the promise and obeyed. God promised to lead him to a new land and provide him with children, to bless his journey and provide for his well-being. Abram believed, prepared his family and possessions, and got on the road to Canaan.
+
+Grigoni, M. R., Custis, M., Mangum, D., &amp; Whitehead, M. M. (2012). Abraham: Following God’s Promise (Ge 11:27–12:9). Bellingham, WA: Lexham Press.</Synopsis>
         </Document>
         <Document ID="110">
             <Title>Observation</Title>
+            <Synopsis>Abram responded with actions, not speech. He built an altar, worshiped God, and continued to explore the land, building another altar near Bethel and moving still farther south “toward the Negev” (Gen 12:9).
+
+Grigoni, M. R., Custis, M., Mangum, D., &amp; Whitehead, M. M. (2012). Abraham: Following God’s Promise (Ge 11:27–12:9). Bellingham, WA: Lexham Press.</Synopsis>
         </Document>
         <Document ID="111">
             <Title>Application </Title>
+            <Synopsis>Have you ever felt torn, like Abram, between what you felt God was calling you to do and what your friends, family, or neighbors expected you to do? How did you respond? What types of pressures did you face from those who questioned your call? Have you ever found yourself in the opposite position—trying to talk friends or loved ones out of what they thought God wanted for them?
+
+Grigoni, M. R., Custis, M., Mangum, D., &amp; Whitehead, M. M. (2012). Abraham: Following God’s Promise (Ge 11:27–12:9). Bellingham, WA: Lexham Press.</Synopsis>
         </Document>
         <Document ID="112">
             <Title>NT Context</Title>
+            <Synopsis>Jesus exhorted His Jewish audience to model Abram by looking ahead to the fulfillment of God’s plan of salvation—a plan that Christ Himself fulfilled before their very eyes. Instead, the Jews opposing Jesus looked to the past, living by their tradition and idolizing Abram.
+
+Grigoni, M. R., Custis, M., Mangum, D., &amp; Whitehead, M. M. (2012). Abraham: Following God’s Promise (Ge 11:27–12:9). Bellingham, WA: Lexham Press.</Synopsis>
         </Document>
         <Document ID="113">
             <Title>Application</Title>
+            <Synopsis>Sometimes the hardest step of faith is the very first one. Every day leads us to a crossroads at which we must choose between faith in God’s promises and fear of the unknown
+
+Grigoni, M. R., Custis, M., Mangum, D., &amp; Whitehead, M. M. (2012). Abraham: Following God’s Promise (Ge 11:27–12:9). Bellingham, WA: Lexham Press.</Synopsis>
         </Document>
         <Document ID="114">
             <Title>Application</Title>
+            <Synopsis>Just like our own walks, Abram’s journey of faith was not perfect. Yet even though Abram continued to be nagged by doubt and fear, he kept looking ahead to where God was leading him. The Apostle Paul used Abram’s life to draw out the same truth: A true child of Abram lives by faith in the promised Son, who brings blessing to the entire world (Gal 3:6–9). The message of Abram’s life points to this essential truth of the gospel: We must live by faith in God, no matter what.
+
+Grigoni, M. R., Custis, M., Mangum, D., &amp; Whitehead, M. M. (2012). Abraham: Following God’s Promise (Ge 11:27–12:9). Bellingham, WA: Lexham Press.</Synopsis>
         </Document>
         <Document ID="115">
             <Title>Application</Title>
+            <Synopsis>We all resist God’s nudges and fight to stay within our own comfort zones. Have you ever caught yourself intentionally holding back when you felt called to step out in faith? Why might God keep trying to draw you toward something new and unknown?
+
+Grigoni, M. R., Custis, M., Mangum, D., &amp; Whitehead, M. M. (2012). Abraham: Following God’s Promise (Ge 11:27–12:9). Bellingham, WA: Lexham Press.</Synopsis>
         </Document>
         <Document ID="116">
             <Title>Application</Title>
+            <Synopsis>Think about a time when you felt you had stepped out in faith, but things quickly started to take a wrong turn. How did you react? Did you try to hang on to what you thought God had promised?
+
+Grigoni, M. R., Custis, M., Mangum, D., &amp; Whitehead, M. M. (2012). Abraham: Following God’s Promise (Ge 11:27–12:9). Bellingham, WA: Lexham Press.</Synopsis>
         </Document>
         <Document ID="117">
             <Title>Observation</Title>
+            <Synopsis>Confronted with difficult circumstances, Abram had to decide whether to trust in God’s promises or take matters into his own hands.
+
+Grigoni, M. R., Custis, M., Mangum, D., &amp; Whitehead, M. M. (2012). Abraham: Following God’s Promise (Ge 12:10–20). Bellingham, WA: Lexham Press.</Synopsis>
         </Document>
         <Document ID="118">
             <Title>Literary Context</Title>
+            <Synopsis>Just as he and Sarai had settled in their new home, severe famine struck the land. Abram was forced to choose: remain in the land of promise and risk death by starvation, or relocate temporarily to Egypt and risk death at the hand of foreign enemies. Abram had just received God’s promise that he would become a “great nation” (Gen 12:2), but that future now appeared to be in jeopardy.
+
+Grigoni, M. R., Custis, M., Mangum, D., &amp; Whitehead, M. M. (2012). Abraham: Following God’s Promise (Ge 12:10–20). Bellingham, WA: Lexham Press.</Synopsis>
         </Document>
         <Document ID="119">
             <Title>Observation</Title>
+            <Synopsis>Rather than standing firm in faith, Abram allowed fear to sway him, and he chose Egypt over God’s promise. Yet, as the Bible demonstrates again and again, God remains faithful to His promise and His people, despite their decisions.
+
+Grigoni, M. R., Custis, M., Mangum, D., &amp; Whitehead, M. M. (2012). Abraham: Following God’s Promise (Ge 12:10–20). Bellingham, WA: Lexham Press.</Synopsis>
         </Document>
         <Document ID="120">
             <Title>Historical Context</Title>
+            <Synopsis>Famines were not unusual in ancient Mesopotamia. Often caused by drought, famines jeopardized the food supplies of animals and people alike, and they quickly became a matter of life and death. Agriculture in Egypt was less dependent on rain than agriculture in Canaan: The regular flooding of the Nile provided water for crops. During times of famine, people living in Canaan often traveled to Egypt, knowing they would likely find food there. Egyptian tomb carvings from around the 20th century BC such as the Beni Hasan mural show Semitic people traveling to Egypt.
+
+Grigoni, M. R., Custis, M., Mangum, D., &amp; Whitehead, M. M. (2012). Abraham: Following God’s Promise (Ge 12:10–20). Bellingham, WA: Lexham Press.</Synopsis>
         </Document>
         <Document ID="121">
             <Title>Historical Context</Title>
+            <Synopsis>famine was an issue of life and death in the ancient world. Since the residents of Canaan often found refuge from famine in Egypt, staying in Canaan would have been illogical to Abram and Sarai.
+
+Grigoni, M. R., Custis, M., Mangum, D., &amp; Whitehead, M. M. (2012). Abraham: Following God’s Promise (Ge 12:10–20). Bellingham, WA: Lexham Press.</Synopsis>
         </Document>
         <Document ID="122">
             <Title>Literary Context</Title>
+            <Synopsis>Still, Abram’s decision to travel to Egypt revealed a surprising lack of faith, especially since it came directly on the heels of God’s call and promise to him (Gen 12:1–9). God had instructed Abram to go “to the land that I will show you” (Gen 12:1), promising that the land would belong to him and his descendants (Gen 12:7). Given God’s recent promise, Abram should have had more confidence.
+
+Grigoni, M. R., Custis, M., Mangum, D., &amp; Whitehead, M. M. (2012). Abraham: Following God’s Promise (Ge 12:10–20). Bellingham, WA: Lexham Press.</Synopsis>
         </Document>
         <Document ID="123">
             <Title>Interpretation</Title>
+            <Synopsis>On some level, Abram’s lack of faith was driven by the overwhelming instinct of self-preservation: He didn’t want to die. This also manifested as a lack of concern for Sarai. Abram persuaded her to participate in his deception, claiming that he would be killed if she did not. He failed to recognize that because of their ploy, an Egyptian would take her as his wife. Abram’s concern for his own survival blinded him to the issues of Sarai’s purity and protection.
+
+Grigoni, M. R., Custis, M., Mangum, D., &amp; Whitehead, M. M. (2012). Abraham: Following God’s Promise (Ge 12:10–20). Bellingham, WA: Lexham Press.</Synopsis>
         </Document>
         <Document ID="124">
             <Title>Interpretation</Title>
+            <Synopsis>On another level, though, Abram’s actions can be understood as an attempt to preserve the future promised in Gen 12:2–3. In this light, Abram’s focus on his survival reflects a concern to neutralize threats against the fulfillment of God’s promise. How could a dead man father a great nation? This episode (and the parallel account of Gen 20) presents Abram struggling with fear—the fear of losing God’s promised inheritance
+
+Grigoni, M. R., Custis, M., Mangum, D., &amp; Whitehead, M. M. (2012). Abraham: Following God’s Promise (Ge 12:10–20). Bellingham, WA: Lexham Press.</Synopsis>
         </Document>
         <Document ID="125">
             <Title>Observation/Application</Title>
+            <Synopsis>Ultimately, God preserved Abram and faithfully kept His promise despite Abram’s seemingly impossible choice—death in Canaan or death in Egypt—and his poor decisions. As we read these accounts, we can recognize times in our own lives when the choices we make seem to lead us off track and away from God. And yet, in such cases, God is still present and able to bring us through any circumstance. He is faithful to His promise.
+
+Grigoni, M. R., Custis, M., Mangum, D., &amp; Whitehead, M. M. (2012). Abraham: Following God’s Promise (Ge 12:10–20). Bellingham, WA: Lexham Press.</Synopsis>
         </Document>
         <Document ID="126">
             <Title>Application</Title>
+            <Synopsis>Reflect on a time when you, like Abram, had doubts about God’s plan for your life. Were you tempted to take matters into your own hands without seeking God? Later, were you able to see how God brought you through, even though you thought you’d been left on your own?
+
+Grigoni, M. R., Custis, M., Mangum, D., &amp; Whitehead, M. M. (2012). Abraham: Following God’s Promise (Ge 12:10–20). Bellingham, WA: Lexham Press.</Synopsis>
         </Document>
         <Document ID="127">
             <Title>Application</Title>
+            <Synopsis>The story of Abram’s decision to go to Egypt rather than remain in Canaan raises several themes for those of us who, like Abram, try to live as followers of God. It reminds us that even the heroes of our faith sometimes allowed themselves to be moved by circumstance rather than conviction.
+
+Grigoni, M. R., Custis, M., Mangum, D., &amp; Whitehead, M. M. (2012). Abraham: Following God’s Promise (Ge 12:10–20). Bellingham, WA: Lexham Press.</Synopsis>
         </Document>
         <Document ID="128">
             <Title>Application</Title>
+            <Synopsis>As with Abram, God’s promise to finish the work He began in us cannot be deterred by our mistakes and shortcomings. God’s faithfulness to us, guaranteed by His grace, will carry us through until the day of Jesus Christ (Phil 1:6).
+
+Grigoni, M. R., Custis, M., Mangum, D., &amp; Whitehead, M. M. (2012). Abraham: Following God’s Promise (Ge 12:10–20). Bellingham, WA: Lexham Press.</Synopsis>
         </Document>
         <Document ID="129">
             <Title>Application</Title>
+            <Synopsis>Living in response to God’s call requires that we continually purge ourselves of self-centeredness—or “self-preservation,” as in Abram’s case. But God’s faithfulness to us ensures that even when we find ourselves off course—whether because of a decision made in fear or a sin that has overcome us—His grace will guide us back to His will.
+
+Grigoni, M. R., Custis, M., Mangum, D., &amp; Whitehead, M. M. (2012). Abraham: Following God’s Promise (Ge 12:10–20). Bellingham, WA: Lexham Press.</Synopsis>
         </Document>
         <Document ID="130">
             <Title>Application</Title>
+            <Synopsis>We can be thankful, then, that God’s perfect promises are not dependent on our perfect faith. Instead, God’s promises secure the perfection of our faith through the redeeming work of His Son (Heb 12:2).
+
+Grigoni, M. R., Custis, M., Mangum, D., &amp; Whitehead, M. M. (2012). Abraham: Following God’s Promise (Ge 12:10–20). Bellingham, WA: Lexham Press.</Synopsis>
         </Document>
         <Document ID="131">
             <Title>Application</Title>
+            <Synopsis>      What currently represents “Canaan” for you in your life? What represents “Egypt”? How do you think God wants you to respond to the “Canaan” and “Egypt” in your life? How can you support each other in your resolve to remain in your “Canaan”?
+
+Grigoni, M. R., Custis, M., Mangum, D., &amp; Whitehead, M. M. (2012). Abraham: Following God’s Promise (Ge 12:10–20). Bellingham, WA: Lexham Press.</Synopsis>
         </Document>
         <Document ID="132">
             <Title>Application</Title>
+            <Synopsis>How does the knowledge of God’s faithfulness and grace give you hope after a “trip to Egypt”? How does a passage like 1 John 1:9 foster this hope?
+
+Grigoni, M. R., Custis, M., Mangum, D., &amp; Whitehead, M. M. (2012). Abraham: Following God’s Promise (Ge 12:10–20). Bellingham, WA: Lexham Press.</Synopsis>
         </Document>
         <Document ID="133">
             <Title>Application</Title>
+            <Synopsis>&quot;The moment we are willing to yield to the new light that God gives us, He moves us on to the next test; and each one makes us stronger in the faith&quot; </Synopsis>
         </Document>
         <Document ID="134">
             <Title>Literary Context</Title>
+            <Synopsis>
+Abram was an idolater. He came from a pagan country and from a pagan nation and from a pagan home. His family worshipped idols, and estranged themselves from the one true God. Joshua gives us this little bit of information in Joshua 24:2. In speaking to Israel he says:
+
+  Thus saith the Lord God of Israel, Your fathers dwelt on the other side of the flood in old time, even Terah, the father of Abraham, and the father of Nachor: and they served other gods.
+
+
+De Haan, M. R. (1996). Adventures in faith: studies in the life of Abraham (p. 25). Grand Rapids, MI: Kregel Publications.</Synopsis>
         </Document>
         <Document ID="135">
             <Title>Application</Title>
+            <Synopsis>The greatest need of the church and of Christians today is to learn the lesson of separation from the world and from the flesh. Thousands of Christians are at a dead standstill (like Abram in Haran), groping in doubt and fear and uncertainty, having made no progress because of the fleshly habits and sins in their lives.
+
+De Haan, M. R. (1996). Adventures in faith: studies in the life of Abraham (p. 27). Grand Rapids, MI: Kregel Publications.</Synopsis>
         </Document>
         <Document ID="136">
             <Title>Application</Title>
+            <Synopsis>Sanctification is not one single spiritual experience, but a series of burials, a succession of funerals, of judgments upon the flesh, or, as Paul puts it, of daily deaths, daily mortifications of the old man and of the flesh and of the world.
+
+De Haan, M. R. (1996). Adventures in faith: studies in the life of Abraham (p. 29). Grand Rapids, MI: Kregel Publications.</Synopsis>
         </Document>
         <Document ID="137">
             <Title>Application</Title>
+            <Synopsis>What is it in your own life, Christian, which hinders you and keeps you from the joy of the Christian life? From what do you need to be separated? You know what it is. Is it some secret sin, some habit, some lust, some fleshly thing you are pampering and condoning and excusing? Is it some worldly practice, pride, dishonesty, gossip, an unforgiving spirit, bitterness, a sharp tongue, an uncontrolled and unyielded temper, stubbornness or hatred? Remember, before you can go on, it must go. 
+
+De Haan, M. R. (1996). Adventures in faith: studies in the life of Abraham (p. 30). Grand Rapids, MI: Kregel Publications.</Synopsis>
         </Document>
         <Document ID="138">
             <Title>Application</Title>
+            <Synopsis>The moment we are willing to yield to the new light that God gives us, He moves us on to the next test; and each one makes us stronger in the faith.
+
+De Haan, M. R. (1996). Adventures in faith: studies in the life of Abraham (p. 32). Grand Rapids, MI: Kregel Publications.</Synopsis>
         </Document>
         <Document ID="139">
             <Title>Literary/Application</Title>
+            <Synopsis>
+Abram says to Sarai:
+
+  When the Egyptians shall see thee … they shall say, This is his wife: and they will kill me, but they will save thee alive.
+  Say, I pray thee, thou art my sister: that it may be well with me for thy sake; and my soul shall live because of thee (Genesis 12:12–13).
+
+Is this the same man who trusted God, of whom we read, “He was the friend of God,” and “the father of the faithful”? Yes, it is the same man—none other than this same Abram, Abram’s action only proves how deceitful the flesh is, even in the believer, and how we ought to be on guard against it every moment. The Bible knows no such thing as the eradication of the flesh while we are here below. It is still in us to overpower us the moment we are off guard and leave the place of perfect obedience. The saintliest and holiest believer is not immune to the flesh and temptation, but is all too prone to yield and submit to it when it appears that obedience to God may cost him too great a price.
+
+
+De Haan, M. R. (1996). Adventures in faith: studies in the life of Abraham (p. 34). Grand Rapids, MI: Kregel Publications.</Synopsis>
         </Document>
         <Document ID="140">
             <Title>Literary Context</Title>
+            <Synopsis>Now comes the most wonderful exhibition of the grace of God in behalf of those who belong to Him, even though they are disobedient. While Abram was unfaithful, God remained faithful. We might expect God to say, “Well, Abram, you got yourself into this mess, now you can stew in your own fat. I am going to give you up. I’m all through with you. I’ll call somebody else.” Did God do anything of the kind? Listen to the record:
+
+  And the Lord plagued Pharaoh and his house with great plagues because of Sarai Abram’s wife (Genesis 12:17).
+
+
+De Haan, M. R. (1996). Adventures in faith: studies in the life of Abraham (p. 35). Grand Rapids, MI: Kregel Publications.</Synopsis>
         </Document>
         <Document ID="141">
             <Title>Literary Context</Title>
+            <Synopsis>Book 5 is God’s gracious response to humanity’s failure at the Tower of Babel. Shem’s seed preserves the line of blessing that will lead to Abraham. Abraham initiates the new innovation in history: one nation that will bless the nations
+
+Waltke, B. K., &amp; Fredricks, C. J. (2001). Genesis: a commentary (p. 192). Grand Rapids, MI: Zondervan.</Synopsis>
         </Document>
         <Document ID="142">
             <Title>Literary Context</Title>
+            <Synopsis>Babel
+Mandate: To spread out and fill the earth
+
+Rebellion: Let us make a name for ourselves. Self-reliant on their unity and determination for security (symbolized in the tower)
+Judgment: confusion of languages
+Grace: The Call of Abraham
+
+Waltke, B. K., &amp; Fredricks, C. J. (2001). Genesis: a commentary (p. 191). Grand Rapids, MI: Zondervan.</Synopsis>
         </Document>
         <Document ID="143">
             <Title>Literary Context</Title>
+            <Synopsis>God’s division of the world into nations (see Book 4) provides the backdrop for God’s innovation to elect one particular nation from Shem’s lineage (Book 5) to bring universal salvation. The extensive but unified narrative of Book 6 presents God’s grant to Abraham of a covenant.
+
+Waltke, B. K., &amp; Fredricks, C. J. (2001). Genesis: a commentary (p. 193). Grand Rapids, MI: Zondervan.</Synopsis>
         </Document>
         <Document ID="144">
             <Title>Application</Title>
+            <Synopsis>Abraham’s story begins with God’s call to venture from the “city of man” and family security to find the city of God. It is a call that every saint hears and that guides God’s people on their pilgrimage to the celestial city. Readers perceive themselves as recipients or addressees of these direct acts of commitment or of promise. They are members of this community.
+
+Waltke, B. K., &amp; Fredricks, C. J. (2001). Genesis: a commentary (p. 194). Grand Rapids, MI: Zondervan.</Synopsis>
         </Document>
         <Document ID="145">
             <Title>Observation</Title>
+            <Synopsis>leave [lek-lekā]. The Hebrew expression is that of “determinedly dissociating oneself,” literally “leave by yourself.”13 Calvin’s paraphrase captures the essence of this faith-demanding command: “I command thee to go forth with closed eyes, … until, having renounced thy country, thou shalt have given thyself wholly to me.”
+land. This is the key word of this act (see 12:7).
+
+
+Waltke, B. K., &amp; Fredricks, C. J. (2001). Genesis: a commentary (p. 205). Grand Rapids, MI: Zondervan.</Synopsis>
         </Document>
         <Document ID="146">
             <Title>Historical Context</Title>
+            <Synopsis>Scholars debate the precise identification of Ur of the Chaldeans from which Abram moved. The excavations of Sir Leonard Woolley at Ur in the 1920s and 1930 have led many to assume that the Ur from which Abram departed is the Sumerian Ur, that is, the great city in Lower Mesopotamia located on the Euphrates.
+
+Other scholars have challenged this identification and suggested that Abram’s Ur is to be located in Upper Mesopotamia. Before Sumerian Ur came to light, writers were already equating Abraham’s Ur with Urfa (now called Edessa), which is about twenty miles northwest of Haran. A more recent proposal is to identify the Ur of Gen. 11 with a town called Ura in Hittite territory.
+
+Hamilton, V. P. (1990). The Book of Genesis, Chapters 1–17 (pp. 363–364). Grand Rapids, MI: Wm. B. Eerdmans Publishing Co.</Synopsis>
         </Document>
         <Document ID="147">
             <Title>Observation</Title>
+            <Synopsis>Heb. môleḏeṯ (from yālaḏ) can mean “birthplace,” and if that is the case here, then we would have further support for Abram coming from Upper Mesopotamia. In some OT passages (esp. Gen. 43:7; 48:6; Esth. 8:6) this word is translated as “descendants, offspring, kindred,” perhaps suggesting that Haran was the place where his family and descendants lived
+
+Hamilton, V. P. (1990). The Book of Genesis, Chapters 1–17 (p. 371). Grand Rapids, MI: Wm. B. Eerdmans Publishing Co.</Synopsis>
         </Document>
         <Document ID="148">
             <Title>NT Context</Title>
+            <Synopsis>The only passage in the NT to emphasize the element of uncertainty in the commencement of Abraham’s faith pilgrimage is Heb. 11:8. Indeed, Heb. 11:8 offers the most definite assertion of this uncertainty (more so even than Genesis) with the addition of the phrase “even though he did not know where he was going.”
+
+Hamilton, V. P. (1990). The Book of Genesis, Chapters 1–17 (p. 386). Grand Rapids, MI: Wm. B. Eerdmans Publishing Co.</Synopsis>
         </Document>
         <Document ID="149">
             <Title>NT Context</Title>
+            <Synopsis>Hebrews 11:8 makes it clear that Abraham was called to leave his home. The writer uses the present participle kaloúmenos, which is perhaps his way of emphasizing Abraham’s immediate response to God. The command is “to go out.”
+
+Hamilton, V. P. (1990). The Book of Genesis, Chapters 1–17 (p. 387). Grand Rapids, MI: Wm. B. Eerdmans Publishing Co.</Synopsis>
         </Document>
         <Document ID="150">
             <Title>Literary Context</Title>
+            <Synopsis>
+time and again the human race had turned away from God: rejected, cursed, and denied Him. This is seen …
+
+      •      in the first family upon earth: in Adam and Eve’s rebellion against God and in Cain’s murder of his brother (Ge. 3:1–6; 4:8–15).
+      •      in society as a whole: in the cesspool of immorality, lawlessness, and violence that gripped the whole human race—every single person except Noah and his dear family—right before the Great Flood (see outline and notes—Ge. 6:1–8).
+      •      in man’s worldwide attempt to build a secular society and religion at the Tower of Babel (see outlines and notes—Ge. 11:1–9).
+
+
+Leadership Ministries Worldwide. (1996). Genesis (Chapters 12–50) (Vol. II, p. 12). Chattanooga, TN: Leadership Ministries Worldwide.</Synopsis>
         </Document>
         <Document ID="151">
             <Title>Literary Context</Title>
+            <Synopsis>
+The Call to a Life of Separation from the World, 12:1.
+
+    1.      The call to separate from his country (v. 1).
+    2.      The call to separate from his relatives (v. 1).
+    3.      The call to separate from his father’s house (v. 1).
+
+
+Leadership Ministries Worldwide. (1996). Genesis (Chapters 12–50) (Vol. II, p. 15). Chattanooga, TN: Leadership Ministries Worldwide.</Synopsis>
         </Document>
         <Document ID="152">
             <Title>Observation</Title>
+            <Synopsis>Abram was being called to a new life, to start life all over again, to seek after a new country—the promised land—that God would show him (see note—Ge. 12:1c for more discussion).
+
+Leadership Ministries Worldwide. (1996). Genesis (Chapters 12–50) (Vol. II, p. 15). Chattanooga, TN: Leadership Ministries Worldwide.</Synopsis>
         </Document>
         <Document ID="153">
             <Title>Application</Title>
+            <Synopsis>Thought 1. The life of separation—separation from the world—is not a heartless demand of God. It is simply the demand that we separate from the ungodly, immoral, and covetous ways of this world. This world is notoriously wicked in the sight of God and should be to us.
+
+Leadership Ministries Worldwide. (1996). Genesis (Chapters 12–50) (Vol. II, p. 15). Chattanooga, TN: Leadership Ministries Worldwide.</Synopsis>
         </Document>
         <Document ID="154">
             <Title>Application</Title>
+            <Synopsis>2 Do not be conformed to this world, but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect. 
+
+The Holy Bible: English Standard Version. (2016). (Ro 12:2). Wheaton, IL: Crossway Bibles.</Synopsis>
         </Document>
         <Document ID="155">
             <Title>Application</Title>
+            <Synopsis>      17       Therefore go out from their midst, 
+      and be separate from them, says the Lord, 
+                  and touch no unclean thing; 
+      then I will welcome you, 
+            18       and I will be a father to you, 
+      and you shall be sons and daughters to me, 
+                  says the Lord Almighty.” 
+7 Since we have these promises, beloved, let us cleanse ourselves from every defilement of body and spirit, bringing holiness to completion in the fear of God. 
+
+
+The Holy Bible: English Standard Version. (2016). (2 Co 6:17–7:1). Wheaton, IL: Crossway Bibles.</Synopsis>
         </Document>
         <Document ID="156">
             <Title>Application</Title>
+            <Synopsis> 4 You adulterous people! Do you not know that friendship with the world is enmity with God? Therefore whoever wishes to be a friend of the world makes himself an enemy of God.
+
+The Holy Bible: English Standard Version. (2016). (Jas 4:3–4). Wheaton, IL: Crossway Bibles.</Synopsis>
         </Document>
         <Document ID="157">
             <Title>Application</Title>
+            <Synopsis>15 Do not love the world or the things in the world. If anyone loves the world, the love of the Father is not in him. 16 For all that is in the world—the desires of the flesh and the desires of the eyes and pride of life—is not from the Father but is from the world. 17 And the world is passing away along with its desires, but whoever does the will of God abides forever.
+
+The Holy Bible: English Standard Version. (2016). (1 Jn 2:15–17). Wheaton, IL: Crossway Bibles.</Synopsis>
         </Document>
         <Document ID="158">
             <Title>Cultural Background</Title>
+            <Synopsis>Family and relatives—especially in the ancient world—provided love, care, acceptance, support, responsibility, training, education, and security for one another. This would have been true with Abram and his family and close relatives. It must have been very difficult for Abram to leave and forever separate himself from his loved ones. Yet this was exactly what God demanded of Abram.
+
+Leadership Ministries Worldwide. (1996). Genesis (Chapters 12–50) (Vol. II, p. 16). Chattanooga, TN: Leadership Ministries Worldwide.</Synopsis>
         </Document>
         <Document ID="159">
             <Title>Application</Title>
+            <Synopsis>Thought 1. The life of separation—separation from family and relatives—is not a heartless demand of God. It is simply the demand that we be totally separated to God, that we put God first in our lives, even before family, relatives, and friends.
+
+Leadership Ministries Worldwide. (1996). Genesis (Chapters 12–50) (Vol. II, p. 16). Chattanooga, TN: Leadership Ministries Worldwide.</Synopsis>
         </Document>
         <Document ID="160">
             <Title>Application</Title>
+            <Synopsis>37 Whoever loves father or mother more than me is not worthy of me, and whoever loves son or daughter more than me is not worthy of me.
+
+The Holy Bible: English Standard Version. (2016). (Mt 10:37). Wheaton, IL: Crossway Bibles.</Synopsis>
         </Document>
         <Document ID="161">
             <Title>Application</Title>
+            <Synopsis>Worldliness and greed will destroy us. Therefore, when God calls us to turn away from the worldliness and greed of family members, it is not a heartless demand.
+⇒	It is simply the demand that we focus our minds and hearts first of all upon God.
+⇒	It is simply the demand that we put God first in our lives, before family members, even before father or mother.
+⇒	It is simply the demand that we seek God first, seek Him even before food, shelter, and clothing.
+⇒	It is simply the demand that we focus our attention and affections on things above, lasting things, not on things of the earth, things that are temporary.
+“Set your affection on things above, not on things on the earth” (Col. 3:2).
+⇒	It is simply the demand that we not trust in the uncertainty of riches, but in the living God.
+“Charge them that are rich in this world, that they be not highminded, nor trust in uncertain riches, but in the living God, who giveth us richly all things to enjoy” (1 Ti. 6:17). 
+
+Leadership Ministries Worldwide. (1996). Genesis (Chapters 12–50) (Vol. II, p. 17). Chattanooga, TN: Leadership Ministries Worldwide.</Synopsis>
         </Document>
         <Document ID="162">
             <Title>Application</Title>
+            <Synopsis>33 But seek first the kingdom of God and his righteousness, and all these things will be added to you. 
+
+The Holy Bible: English Standard Version. (2016). (Mt 6:33). Wheaton, IL: Crossway Bibles.</Synopsis>
         </Document>
         <Document ID="163">
             <Title>Application</Title>
+            <Synopsis>28 Peter began to say to him, “See, we have left everything and followed you.” 29 Jesus said, “Truly, I say to you, there is no one who has left house or brothers or sisters or mother or father or children or lands, for my sake and for the gospel, 30 who will not receive a hundredfold now in this time, houses and brothers and sisters and mothers and children and lands, with persecutions, and in the age to come eternal life. 31 But many who are first will be last, and the last first.” 
+
+The Holy Bible: English Standard Version. (2016). (Mk 10:28–31). Wheaton, IL: Crossway Bibles.</Synopsis>
         </Document>
         <Document ID="164">
             <Title>Interpretation</Title>
+            <Synopsis>But it was not fitting that the one who had faith in God should remain among perverse people—the father of Abraham was in fact an idolater—because the company of the wicked often does harm to zealous people, especially to those whose zeal is new. That is why the Savior also proclaims, “If anyone wishes to follow me and does not hate his father, his brothers, his sisters, and even his wife and children, he cannot be my disciple.”
+
+Sheridan, M. (Ed.). (2002). Genesis 12–50 (p. 2). Downers Grove, IL: InterVarsity Press.</Synopsis>
         </Document>
         <Document ID="165">
             <Title>Application</Title>
+            <Synopsis>THE DEVIL WAS OUR FATHER BEFORE GRACE. CAESARIUS OF ARLES: “Leave your father’s house.” This we ought to accept in a spiritual manner, dearly beloved. The devil was our father before the grace of Christ; of him the Lord spoke in the Gospel when he rebuked the Jews: “The father from whom you are is the devil, and the desires of your father it is your will to do.” He said the devil was the father of humanity, not because of birth from him but because of imitation of his wickedness.
+
+Sheridan, M. (Ed.). (2002). Genesis 12–50 (p. 3). Downers Grove, IL: InterVarsity Press.</Synopsis>
         </Document>
         <Document ID="166">
             <Title>Interpretation</Title>
+            <Synopsis>Abram must exchange the known for the unknown (Heb. 11:8)
+
+Kidner, D. (1967). Genesis: An Introduction and Commentary (Vol. 1, p. 125). Downers Grove, IL: InterVarsity Press.</Synopsis>
         </Document>
         <Document ID="167">
             <Title>Literary Context</Title>
+            <Synopsis>Gen. 11:27* is the beginning of the patriarchal story. Terah to be sure is not one of the patriarchs; he dies in Haran before the entrance into the land of Canaan. But as the father of Abraham, he belongs to the story that is to be told (R. Montague, La Civilization du Desert [1947]). 
+
+Westermann, C. (1995). A Continental Commentary: Genesis 12–36 (p. 134). Minneapolis, MN: Fortress Press.</Synopsis>
         </Document>
         <Document ID="168">
             <Title>Historical Context</Title>
+            <Synopsis>
+“They came to Haran.” Haran is an ancient and well-known city on the left bank of the Belikh, a tributary of the Euphrates; in cuneiform it is Harrānu(m), often mentioned in the Mari texts. Some scholars think that the name is Hurrian (F. M. T. Böhl and others); later it was karrhä, today once more Harran. The city belonged to the Mitanni empire, then to the Hittite, and afterwards to the Assyrian. The last Assyrian king fled there, and the last Babylonian king, Nabonidus, favored it.
+Haran is mentioned in the context of the patriarchal story in Gen. 11:31*, 32*; 12:4*, 5*; 27:43*; 28:10*; 29:4*; in Gen. 24 it is the city of Nahor, Laban, and Rebecca. Such extensive attestation points to the likelihood that it is the place of origin of Abraham’s ancestors.
+
+
+Westermann, C. (1995). A Continental Commentary: Genesis 12–36 (p. 140). Minneapolis, MN: Fortress Press.</Synopsis>
         </Document>
         <Document ID="169">
             <Title>NT Background</Title>
+            <Synopsis>7 And the high priest said, “Are these things so?” 2 And Stephen said: 
+“Brothers and fathers, hear me. The God of glory appeared to our father Abraham when he was in Mesopotamia, before he lived in Haran, 3 and said to him, ‘Go out from your land and from your kindred and go into the land that I will show you.’ 4 Then he went out from the land of the Chaldeans and lived in Haran. And after his father died, God removed him from there into this land in which you are now living. 5 Yet he gave him no inheritance in it, not even a foot’s length, but promised to give it to him as a possession and to his offspring after him, though he had no child. 6 And God spoke to this effect—that his offspring would be sojourners in a land belonging to others, who would enslave them and afflict them four hundred years. 7 ‘But I will judge the nation that they serve,’ said God, ‘and after that they shall come out and worship me in this place.’ 8 And he gave him the covenant of circumcision. And so Abraham became the father of Isaac, and circumcised him on the eighth day, and Isaac became the father of Jacob, and Jacob of the twelve patriarchs. 
+
+
+The Holy Bible: English Standard Version. (2016). (Ac 7:1–8). Wheaton, IL: Crossway Bibles.</Synopsis>
         </Document>
         <Document ID="170">
             <Title>Literary Context</Title>
+            <Synopsis>Abraham was born in *UR and moved with his wife Sarai, his father, brothers Nahor and Harran, and nephew Lot to Harran (Gn. 11:26–32). At the age of 75, on his father’s death, Abraham moved on to Palestine (Canaan) near Bethel, to Mamre near Hebron, and to Beersheba. At each place he set up an altar and tent-shrine.
+
+Wiseman, D. J. (1996). Abraham. In D. R. W. Wood, I. H. Marshall, A. R. Millard, &amp; J. I. Packer (Eds.), New Bible dictionary (3rd ed., p. 5). Leicester, England; Downers Grove, IL: InterVarsity Press.</Synopsis>
         </Document>
         <Document ID="171">
             <Title>Historical Background</Title>
+            <Synopsis>The most generally accepted identification is with the ancient site of Ur (Uri), modern Tell el-Muqayyar, 14 km W of Nasiriyeh on the river Euphrates in S Iraq. 
+
+Wiseman, D. J. (1996). Ur of the Chaldees. In D. R. W. Wood, I. H. Marshall, A. R. Millard, &amp; J. I. Packer (Eds.), New Bible dictionary (3rd ed., p. 1219). Leicester, England; Downers Grove, IL: InterVarsity Press.</Synopsis>
         </Document>
         <Document ID="172">
             <Title>Literary Context</Title>
+            <Synopsis>Be fruitful and multiply and fill the earth
+
+The Holy Bible: English Standard Version. (2016). (Ge 9:1). Wheaton, IL: Crossway Bibles.</Synopsis>
         </Document>
         <Document ID="173">
             <Title>Historical Context</Title>
+            <Synopsis>The Migration. Abraham’s story begins with his migration with the rest of his family from UR of the Chaldeans in ancient southern Babylonia (Gen. 11:31). He and his family moved north along the trade routes of the ancient world and settled in the flourishing trade center of HARAN, several hundred miles to the northwest.
+
+Youngblood, R. F., Bruce, F. F., &amp; Harrison, R. K., Thomas Nelson Publishers (Eds.). (1995). In Nelson’s new illustrated Bible dictionary. Nashville, TN: Thomas Nelson, Inc.</Synopsis>
         </Document>
         <Document ID="174">
             <Title>NT Context</Title>
+            <Synopsis>By faith Abraham obeyed when he was called to go out to a place that he was to receive as an inheritance. And he went out, not knowing where he was going
+
+The Holy Bible: English Standard Version. (2016). (Heb 11:8). Wheaton, IL: Crossway Bibles.</Synopsis>
         </Document>
         <Document ID="175">
             <Title>Separation from the World</Title>
@@ -506,93 +834,42 @@ As we will learn from the life of Abraham, repentance is not just a one-time eve
         </Document>
         <Document ID="177">
             <Title>Repentance in OT</Title>
+            <Synopsis>The OT concept of repentance is expressed with two key Hebrew terms: שׁוּב (šûb) and נָחַם (nāḥam). The Hebrew word šûb (“turn”) expresses repentance as turning away from the wrong path, i.e., sinful behavior, and turning back toward God (Hos 3:5). Thus, repentance is an act of reorientation. The term nāḥam (“console”) can have a number of different meanings, including feeling sorrow or remorse; it can thus express the aspect of repentance that involves contrition for wrongdoing (Job 42:6).
+
+DiFransico, L. (2014). Repentance. D. Mangum, D. R. Brown, R. Klippenstein, &amp; R. Hurst (Eds.), Lexham Theological Wordbook. Bellingham, WA: Lexham Press.</Synopsis>
         </Document>
         <Document ID="178">
             <Title>OT Context</Title>
+            <Synopsis>Thus says the LORD, the God of Israel, ‘Long ago, your fathers lived beyond the Euphrates, Terah, the father of Abraham and of Nahor; and they served other gods. 
+
+The Holy Bible: English Standard Version. (2016). (Jos 24:2). Wheaton, IL: Crossway Bibles.</Synopsis>
         </Document>
         <Document ID="179">
             <Title>Repentance</Title>
+            <Synopsis>The OT concept of repentance is expressed with two key Hebrew terms: שׁוּב (šûb) and נָחַם (nāḥam). The Hebrew word šûb (“turn”) expresses repentance as turning away from the wrong path, i.e., sinful behavior, and turning back toward God (Hos 3:5). Thus, repentance is an act of reorientation. The term nāḥam (“console”) can have a number of different meanings, including feeling sorrow or remorse; it can thus express the aspect of repentance that involves contrition for wrongdoing (Job 42:6).
+
+DiFransico, L. (2014). Repentance. D. Mangum, D. R. Brown, R. Klippenstein, &amp; R. Hurst (Eds.), Lexham Theological Wordbook. Bellingham, WA: Lexham Press.</Synopsis>
         </Document>
         <Document ID="180">
             <Title>Repentance in NT</Title>
+            <Synopsis>In the NT, the Greek word μετανοέω (metanoeō) means “to change the mind”; the related noun μετάνοια (metanoia) means “change of mind” (Mark 1:4, 15). Repentance is thus understood as a process in which the individual reorients the mind and will—away from sin and toward God. Like Hebrew, Greek can also express repentance or conversion as turning back to God with the verb ἐπιστρέφω (epistrephō, “to turn back”; Matt 13:15).
+
+DiFransico, L. (2014). Repentance. D. Mangum, D. R. Brown, R. Klippenstein, &amp; R. Hurst (Eds.), Lexham Theological Wordbook. Bellingham, WA: Lexham Press.</Synopsis>
         </Document>
         <Document ID="181">
             <Title>Repentance in NT</Title>
+            <Synopsis>μετανοέω fut. μετανοήσω; 
+      1 aor. μετενόησα (ἐμετενόησαν w. double augment ApcEsdr 2:24) (s. next entry; Antiphon+)
+       ①       change one’s mind Hv 3, 7, 3; m 11:4 (cp. Diod S 15, 47, 3 μετενόησεν ὁ δῆμος; 17, 5, 1; Epict. 2, 22, 35; Appian, Hann. 35 §151, Mithrid. 58 §238; Stob., Ecl. II 113, 5ff W.; PSI 495, 9 [258 B.C.]; Jos., Vi. 110; 262), th
+
+
+Arndt, W., Danker, F. W., Bauer, W., &amp; Gingrich, F. W. (2000). A Greek-English lexicon of the New Testament and other early Christian literature (3rd ed., p. 640). Chicago: University of Chicago Press.</Synopsis>
         </Document>
         <Document ID="182">
             <Title>Repentance in  NT</Title>
-        </Document>
-        <Document ID="183">
-            <Title>Context</Title>
-        </Document>
-        <Document ID="184">
-            <Title>Separation from World</Title>
-        </Document>
-        <Document ID="185">
-            <Title>Observation</Title>
-            <Synopsis>What is the meaning of the term “world” that lies behind the exhortation μὴ ἀγαπᾶτε τὸν κόσμον μηδὲ τὰ ἐν τῷ κόσμῳ (“Do not love the world or the things in the world”)? That it is not the world as a creation of God, and that it is also not the world of men, is self-evident. It is the κόσμος οὗτος (“this world”) of 4:17*; Jn 12:31*; 16:11*; 18:36*; 1 Cor 3:19*; 5:10*; 7:31*; Eph 2:2*, in the sense of the sphere which is distinguished and separated from God, but not in the sense of an active opposition to God and the believers, as in 3:13*; Jn 7:7*; 15:18f*, 24*; 17:14*, but rather in the sense of its nothingness, as v 17* shows.18
+            <Synopsis>9 For they themselves report concerning us the kind of reception we had among you, and how you turned to God from idols to serve the living and true God, 10 and to wait for his Son from heaven, whom he raised from the dead, Jesus who delivers us from the wrath to come. 
 
-Bultmann, R. K. (1973). The Johannine epistles a commentary on the Johannine epistles (pp. 32–33). Philadelphia: Fortress Press.</Synopsis>
-        </Document>
-        <Document ID="186">
-            <Title>Observation</Title>
-            <Synopsis>“And the world is passing away and the lust of it”). Παράγεται (“passing away”) does not have the same sense as in v 8*. It does not mean that the “world” is (now) passing away (as in 1 Cor 7:31*), but that, as “world,” it is transitory.28
-
-Bultmann, R. K. (1973). The Johannine epistles a commentary on the Johannine epistles (p. 34). Philadelphia: Fortress Press.</Synopsis>
-        </Document>
-        <Document ID="187">
-            <Title>Observation</Title>
-            <Synopsis>The various meanings that the word ‘world’ carries in 1 John have been listed above (see comment on 2:2). There can be no doubt that in the present context it means ‘worldly attitudes or values that are opposed to God’ (cf. Jas 4:4). 
-
-Kruse, C. G. (2000). The letters of John (p. 94). Grand Rapids, MI; Leicester, England: W.B. Eerdmans Pub.; Apollos.</Synopsis>
-        </Document>
-        <Document ID="188">
-            <Title>Observation</Title>
-            <Synopsis>What it means to love the world becomes evident as this section unfolds, but, in a word, it means to be taken up with all that is in the world (as defined in 2:16) instead of seeking to do the will of God.
-
-Kruse, C. G. (2000). The letters of John (p. 95). Grand Rapids, MI; Leicester, England: W.B. Eerdmans Pub.; Apollos.</Synopsis>
-        </Document>
-        <Document ID="189">
-            <Title>Observation</Title>
-            <Synopsis>But in the present context it is clear that ‘the love of the Father’ means the believers’ love for the Father, because it stands in opposition to believers’ love for the world. What the whole conditional sentence conveys, then, is that if people love the ‘world’, they do not love the Father.
-
-Kruse, C. G. (2000). The letters of John (p. 95). Grand Rapids, MI; Leicester, England: W.B. Eerdmans Pub.; Apollos.</Synopsis>
-        </Document>
-        <Document ID="190">
-            <Title>Observation</Title>
-            <Synopsis>To make his point the author gives a definition of everything in the world. This definition involves three elements. The first of these is the cravings of sinful man (lit. ‘the desire of the flesh’ [hē epithymia tēs sarkos]). The word “desire” (epithymia) is found 38 times in the NT. In only three places does it have positive connotations (Luke 22:15; Phil 1:23; 1 Thess 2:17); in all the rest it has morally negative connotations, as it does in the present context, where the NIV translates it as ‘cravings’. This is a general category, and the second and third elements of those things which comprise the world are subcategories.80 The second of them is the lust of his eyes (lit. ‘the desire of the eyes’), that is, those sinful cravings which are activated by what people see, and lead to covetousness. Covetousness is one part of what makes up the ‘cravings of sinful man’ in this context. The third element is his pride in possessions (lit. ‘pride of life’, alazoneia tou biou). The word bios has a range of meanings, including ‘life’, ‘livelihood’, ‘living’, ‘property’, and ‘possessions’. It is used in 3:17 clearly with the sense of property or possessions, and this is the predominant use of the word in the NT. To construe it here, then, as ‘possessions’, as the NIV does, not only makes good sense but is also in line with the only other use of the word in 1 John (see 3:17) and the predominant use in the NT. Being puffed up in pride because of one’s material possessions is the second of those things which make up the ‘cravings of sinful man’ in this passage.
-
-Kruse, C. G. (2000). The letters of John (pp. 95–96). Grand Rapids, MI; Leicester, England: W.B. Eerdmans Pub.; Apollos.</Synopsis>
-        </Document>
-        <Document ID="191">
-            <Title>Observation</Title>
-            <Synopsis>A characteristic contra factual argument suggests that the homeland that they sought could not be their earthly place of origin (vs. 15*). Rather, the goal of their wandering was and is heavenly (vs. 16*).
-
-Attridge, H. W., &amp; Koester, H. (1989). The Epistle to the Hebrews: a commentary on the Epistle to the Hebrews (p. 328). Philadelphia: Fortress Press.</Synopsis>
-        </Document>
-        <Document ID="192">
-            <Title>Application</Title>
-            <Synopsis>That better homeland is yet another symbol for the ultimate goal of the people of the new covenant, elsewhere described as salvation, glory, rest, or entry into God’s presence.
-
-Attridge, H. W., &amp; Koester, H. (1989). The Epistle to the Hebrews: a commentary on the Epistle to the Hebrews (p. 329). Philadelphia: Fortress Press.</Synopsis>
-        </Document>
-        <Document ID="193">
-            <Title>Application</Title>
-            <Synopsis>The situation of the patriarchs is, in important ways, analogous to that of the Christian addressees, whose commitment has alienated them from their earthly “homeland” (10:32–34*). These new sojourners will soon be summoned again to follow the ultimate example of faith by accepting the suffering that comes with their alien status (12:1–3*; 13:13*).
-
-Attridge, H. W., &amp; Koester, H. (1989). The Epistle to the Hebrews: a commentary on the Epistle to the Hebrews (p. 329). Philadelphia: Fortress Press.</Synopsis>
-        </Document>
-        <Document ID="194">
-            <Title>Application</Title>
-            <Synopsis>One might object that the patriarchal confession of their alien status indicated a nostalgic yearning to return to their Mesopotamian land of origin. If that were the case, they would, in their search for a homeland, “have in mind” (ἐμνημόνευον) the specific place from which they had “departed” (ἐξέβησαν). They could thus have attained their goal on earth, for they would have had “time to return” (καιρὸν38 ἀνακάμψαι).
-
-Attridge, H. W., &amp; Koester, H. (1989). The Epistle to the Hebrews: a commentary on the Epistle to the Hebrews (p. 331). Philadelphia: Fortress Press.</Synopsis>
-        </Document>
-        <Document ID="195">
-            <Title>Application</Title>
-            <Synopsis>Why the goal was better is indicated with the common explanatory “that is” (τοῦτʼ ἔστιν). The homeland is superior to Ur of the Chaldees or Haran because it is “heavenly” (ἐπουρανίου)
-
-Attridge, H. W., &amp; Koester, H. (1989). The Epistle to the Hebrews: a commentary on the Epistle to the Hebrews (p. 331). Philadelphia: Fortress Press.</Synopsis>
+The Holy Bible: English Standard Version. (2016). (1 Th 1:9–10). Wheaton, IL: Crossway Bibles.</Synopsis>
         </Document>
     </Documents>
 </SearchIndexes>
