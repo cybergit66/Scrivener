@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="MSSLW17011324" Modified="2018-01-28 21:11:36 -0600" ModID="72E9B1B7-4C9A-49B1-A5D9-AAE94CF53EF9">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="MSSLW17011324" Modified="2018-01-30 23:24:27 -0600" ModID="0DD12A64-D5F5-4207-B086-7FEEBFF03AA4">
     <Binder>
         <BinderItem ID="12" UUID="0E804D2D-A3E2-40DD-856B-3E889E57F710" Created="2007-03-25 15:48:19 -0600" Modified="2014-05-23 04:12:06 -0600" Type="Text">
             <Title>Non-Fiction Format</Title>
@@ -136,7 +136,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>247,148</TextSelection>
+                                <TextSelection>1432,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -149,12 +149,13 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="213" UUID="639ED0CF-7850-43AE-97A4-FAC7DCE19C5B" Created="2018-01-27 00:04:44 -0600" Modified="2018-01-27 00:04:59 -0600" Type="Text">
+                                <BinderItem ID="213" UUID="639ED0CF-7850-43AE-97A4-FAC7DCE19C5B" Created="2018-01-27 00:04:44 -0600" Modified="2018-01-30 23:16:51 -0600" Type="Text">
                                     <Title>A Great Nation</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
+                                        <TextSelection>2621,0</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                 </BinderItem>
@@ -1856,6 +1857,7 @@
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
+                                <TextSelection>6272,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -1874,6 +1876,33 @@
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="222" UUID="B5A0AF9C-6737-4647-8CA6-611822828EE3" Created="2018-01-30 22:28:15 -0600" Modified="2018-01-30 22:28:59 -0600" Type="Text">
+                            <Title>Hebrews 11</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="223" UUID="DD2D07BC-4A5C-4D09-8EB2-3E40D0393346" Created="2018-01-30 22:59:03 -0600" Modified="2018-01-30 23:00:01 -0600" Type="Text">
+                            <Title>Revelation 21.2</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="224" UUID="6AA099F9-D34C-4EE6-AC53-81C9538913C0" Created="2018-01-30 23:15:28 -0600" Modified="2018-01-30 23:16:06 -0600" Type="Text">
+                            <Title>Hebrews 4</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <Target Type="Words">0</Target>
@@ -1967,7 +1996,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="2517" Characters="14414" Date="2018-01-26 23:48:29 -0600"/>
+        <PreviousSession Words="391" Characters="2203" Date="2018-01-30 21:51:16 -0600"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.901961 0.917647 0.933333">
