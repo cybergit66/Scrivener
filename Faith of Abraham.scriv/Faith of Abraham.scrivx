@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="TerenceHP" Modified="2018-02-11 17:56:44 -0600" ModID="8C20247E-5FA6-46EF-8D27-756088AB629C">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="MSSLW17011324" Modified="2018-02-12 18:26:27 -0600" ModID="0E404E94-1F4C-4292-9E8D-362FF4061E14">
     <Binder>
         <BinderItem ID="12" UUID="0E804D2D-A3E2-40DD-856B-3E889E57F710" Created="2007-03-25 15:48:19 -0600" Modified="2014-05-23 04:12:06 -0600" Type="Text">
             <Title>Non-Fiction Format</Title>
@@ -262,12 +262,13 @@
                                 <Target Type="Words">400</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="67" UUID="92BA9D77-3863-4F84-9392-4D6DF6DF534A" Created="2018-01-10 21:53:26 -0600" Modified="2018-02-11 15:47:52 -0600" Type="Text">
+                        <BinderItem ID="67" UUID="92BA9D77-3863-4F84-9392-4D6DF6DF534A" Created="2018-01-10 21:53:26 -0600" Modified="2018-02-12 18:26:00 -0600" Type="Text">
                             <Title>Cornerstone</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
+                                <TextSelection>963,0</TextSelection>
                                 <Target Type="Words">1000</Target>
                             </TextSettings>
                         </BinderItem>
@@ -2137,7 +2138,7 @@
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>220,0</TextSelection>
+                                <TextSelection>1927,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -2148,7 +2149,7 @@
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>8626,0</TextSelection>
+                                <TextSelection>6901,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -2168,7 +2169,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>4081,0</TextSelection>
+                                <TextSelection>3484,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -2218,7 +2219,27 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1919,0</TextSelection>
+                                <TextSelection>904,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="258" UUID="3681096E-EEF8-45A9-B795-57F80B72610C" Created="2018-02-12 17:03:53 -0600" Modified="2018-02-12 17:04:10 -0600" Type="Text">
+                            <Title>Hamilton</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>714,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="259" UUID="C32D03A2-C594-4471-823F-D51C5FD7F88D" Created="2018-02-12 17:07:32 -0600" Modified="2018-02-12 17:07:45 -0600" Type="Text">
+                            <Title>Waltke</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>786,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -2337,7 +2358,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="3062" Characters="17142" Date="2018-02-11 15:38:49 -0600"/>
+        <PreviousSession Words="553" Characters="3066" Date="2018-02-12 16:48:43 -0600"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.901961 0.917647 0.933333">
