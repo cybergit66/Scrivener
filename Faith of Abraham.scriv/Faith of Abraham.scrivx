@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="MSSLW17011324" Modified="2018-02-12 18:26:27 -0600" ModID="0E404E94-1F4C-4292-9E8D-362FF4061E14">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="MSSLW17011324" Modified="2018-02-16 16:40:27 -0600" ModID="7EE77373-D774-45C8-A22B-B5D53E1205C5">
     <Binder>
         <BinderItem ID="12" UUID="0E804D2D-A3E2-40DD-856B-3E889E57F710" Created="2007-03-25 15:48:19 -0600" Modified="2014-05-23 04:12:06 -0600" Type="Text">
             <Title>Non-Fiction Format</Title>
@@ -258,26 +258,27 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2373,0</TextSelection>
+                                <TextSelection Caret="1007">995,12</TextSelection>
                                 <Target Type="Words">400</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="67" UUID="92BA9D77-3863-4F84-9392-4D6DF6DF534A" Created="2018-01-10 21:53:26 -0600" Modified="2018-02-12 18:26:00 -0600" Type="Text">
+                        <BinderItem ID="67" UUID="92BA9D77-3863-4F84-9392-4D6DF6DF534A" Created="2018-01-10 21:53:26 -0600" Modified="2018-02-14 14:22:05 -0600" Type="Text">
                             <Title>Cornerstone</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>963,0</TextSelection>
+                                <TextSelection>1404,0</TextSelection>
                                 <Target Type="Words">1000</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="68" UUID="25FF3B69-A797-438C-9070-7AB03FE825B6" Created="2018-01-10 21:53:35 -0600" Modified="2018-02-11 15:48:05 -0600" Type="Text">
+                        <BinderItem ID="68" UUID="25FF3B69-A797-438C-9070-7AB03FE825B6" Created="2018-01-10 21:53:35 -0600" Modified="2018-02-14 14:44:36 -0600" Type="Text">
                             <Title>Inscription</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
+                                <TextSelection>1197,0</TextSelection>
                                 <Target Type="Words">200</Target>
                             </TextSettings>
                         </BinderItem>
@@ -2138,7 +2139,7 @@
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1927,0</TextSelection>
+                                <TextSelection>1234,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -2149,7 +2150,7 @@
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>6901,0</TextSelection>
+                                <TextSelection>7929,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -2173,13 +2174,13 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="253" UUID="FBA88958-C7C1-4B7C-8CC5-9AB0B552BD3D" Created="2018-02-11 16:35:07 -0600" Modified="2018-02-11 16:35:11 -0600" Type="Text">
+                        <BinderItem ID="253" UUID="FBA88958-C7C1-4B7C-8CC5-9AB0B552BD3D" Created="2018-02-11 16:35:07 -0600" Modified="2018-02-13 17:14:19 -0600" Type="Text">
                             <Title>3 (14:13) Faith—Preparation: the wise preparation</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1186,0</TextSelection>
+                                <TextSelection>2496,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -2189,7 +2190,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1504,0</TextSelection>
+                                <TextSelection>1731,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -2209,7 +2210,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1077,0</TextSelection>
+                                <TextSelection>291,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -2219,7 +2220,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>904,0</TextSelection>
+                                <TextSelection>2937,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -2229,17 +2230,118 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>714,0</TextSelection>
+                                <TextSelection>1316,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="259" UUID="C32D03A2-C594-4471-823F-D51C5FD7F88D" Created="2018-02-12 17:07:32 -0600" Modified="2018-02-12 17:07:45 -0600" Type="Text">
+                        <BinderItem ID="259" UUID="C32D03A2-C594-4471-823F-D51C5FD7F88D" Created="2018-02-12 17:07:32 -0600" Modified="2018-02-14 13:57:56 -0600" Type="Text">
                             <Title>Waltke</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>786,0</TextSelection>
+                                <TextSelection>1564,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="260" UUID="D16C8477-C1D3-4409-B63C-AA6C44208944" Created="2018-02-14 11:48:28 -0600" Modified="2018-02-14 14:38:48 -0600" Type="Text">
+                            <Title>Scriptures</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1334,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="261" UUID="D7D35E4D-8958-4236-BB47-3FC48B0EA92C" Created="2018-02-14 13:54:07 -0600" Modified="2018-02-14 13:55:01 -0600" Type="Text">
+                            <Title>New Bible Dictionary</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>623,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="262" UUID="C3E4612C-0AC4-4A5A-847E-5D0C19FAFFDD" Created="2018-02-14 14:45:29 -0600" Modified="2018-02-16 15:19:38 -0600" Type="Folder">
+                    <Title>Dealing With Doubt</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="264" UUID="9CC8F839-824D-40AD-862F-BD2275DF051B" Created="2018-02-16 15:42:02 -0600" Modified="2018-02-16 15:42:12 -0600" Type="Folder">
+                    <Title>Counted As Righteous</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="263" UUID="28D106DC-414C-4245-9D97-31F229309213" Created="2018-02-16 15:35:34 -0600" Modified="2018-02-16 15:55:36 -0600" Type="Text">
+                            <Title>Genesis 15 Lesson</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>8752,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="265" UUID="42B54B22-E896-4BD5-A2EA-3CEBEB13B5B5" Created="2018-02-16 15:55:04 -0600" Modified="2018-02-16 15:55:08 -0600" Type="Text">
+                            <Title>Genesis 15:1–21</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2404,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="266" UUID="B03E6D34-A9EA-4545-882A-3AE50F341C0B" Created="2018-02-16 16:00:27 -0600" Modified="2018-02-16 16:00:49 -0600" Type="Text">
+                            <Title>Waltke</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>290,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="267" UUID="0C4213EE-2682-4F1C-9F87-B3275DB6A6C4" Created="2018-02-16 16:02:59 -0600" Modified="2018-02-16 16:03:29 -0600" Type="Text">
+                            <Title>Leadership Ministries</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>3826,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="268" UUID="974BDC74-D8AC-4116-A398-B7807204A8B7" Created="2018-02-16 16:04:44 -0600" Modified="2018-02-16 16:37:13 -0600" Type="Text">
+                            <Title>Leadership Ministries Notes</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>7653,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="269" UUID="933DD681-27FA-4C99-8745-A3C3C8338C27" Created="2018-02-16 16:09:03 -0600" Modified="2018-02-16 16:09:15 -0600" Type="Text">
+                            <Title>Scriptures</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>258,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -2358,7 +2460,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="553" Characters="3066" Date="2018-02-12 16:48:43 -0600"/>
+        <PreviousSession Words="2638" Characters="14431" Date="2018-02-16 15:19:04 -0600"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.901961 0.917647 0.933333">
