@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="MSSLW17011324" Modified="2018-02-22 17:29:50 -0600" ModID="B4FB3CE4-E91D-44A2-B3BC-3B151E2B0C1D">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="MSSLW17011324" Modified="2018-02-23 16:37:19 -0600" ModID="D05776B2-E42D-4DDC-966A-5D2BFBDF4AAE">
     <Binder>
         <BinderItem ID="12" UUID="0E804D2D-A3E2-40DD-856B-3E889E57F710" Created="2007-03-25 15:48:19 -0600" Modified="2014-05-23 04:12:06 -0600" Type="Text">
             <Title>Non-Fiction Format</Title>
@@ -367,8 +367,8 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="49" UUID="8004E290-9238-40E7-BD8D-CA9B72CF248E" Created="2018-01-10 21:35:29 -0600" Modified="2018-01-10 21:35:38 -0600" Type="Folder">
-                    <Title>Dealing With Doubt</Title>
+                <BinderItem ID="49" UUID="8004E290-9238-40E7-BD8D-CA9B72CF248E" Created="2018-01-10 21:35:29 -0600" Modified="2018-02-23 15:53:18 -0600" Type="Folder">
+                    <Title>Dealing With Impatience</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
@@ -376,12 +376,13 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="72" UUID="E081C335-CE17-4BF2-A4D3-7D36493F8C65" Created="2018-01-10 21:54:55 -0600" Modified="2018-01-10 21:54:58 -0600" Type="Text">
+                        <BinderItem ID="72" UUID="E081C335-CE17-4BF2-A4D3-7D36493F8C65" Created="2018-01-10 21:54:55 -0600" Modified="2018-02-23 16:05:16 -0600" Type="Text">
                             <Title>Foundation</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
+                                <TextSelection>106,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -2320,13 +2321,53 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="278" UUID="B6675898-A3B1-4449-8F95-F2F577589005" Created="2018-02-22 17:01:43 -0600" Modified="2018-02-22 17:02:21 -0600" Type="Text">
+                        <BinderItem ID="278" UUID="B6675898-A3B1-4449-8F95-F2F577589005" Created="2018-02-22 17:01:43 -0600" Modified="2018-02-23 15:41:33 -0600" Type="Text">
                             <Title>Sarai and Hagar</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>986,0</TextSelection>
+                                <TextSelection>1657,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="279" UUID="BC58AB05-B01B-4096-B221-6370BB3723C6" Created="2018-02-23 15:45:18 -0600" Modified="2018-02-23 15:45:37 -0600" Type="Text">
+                            <Title>Genesis 16 Lesson</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="280" UUID="318169DC-D4E9-4B9E-BA6C-9AC5C71846DE" Created="2018-02-23 15:52:32 -0600" Modified="2018-02-23 15:52:39 -0600" Type="Text">
+                            <Title>1. Sara was childless &amp; became impatient: The</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>3197,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="281" UUID="E8489A43-98E5-4E4B-A551-269B45DEDCE3" Created="2018-02-23 15:56:53 -0600" Modified="2018-02-23 15:58:52 -0600" Type="Text">
+                            <Title>Waltke</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1008,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="282" UUID="1AA3062A-0649-4DE6-8A0C-C3F36A97AB4C" Created="2018-02-23 16:00:56 -0600" Modified="2018-02-23 16:34:54 -0600" Type="Text">
+                            <Title>Leadership Ministries</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>13252,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -2558,7 +2599,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="1787" Characters="9799" Date="2018-02-22 15:22:13 -0600"/>
+        <PreviousSession Words="5033" Characters="28371" Date="2018-02-23 15:35:46 -0600"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.901961 0.917647 0.933333">
