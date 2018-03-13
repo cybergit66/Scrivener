@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="MSSLW17011324" Modified="2018-03-12 23:04:07 -0500" ModID="952D421A-A43C-408E-B9FB-C2D8D120AC74">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="MSSLW17011324" Modified="2018-03-13 10:07:20 -0500" ModID="A2836E73-96FD-48AA-9518-B14993F0A32B">
     <Binder>
         <BinderItem ID="12" UUID="0E804D2D-A3E2-40DD-856B-3E889E57F710" Created="2007-03-25 16:48:19 -0500" Modified="2014-05-23 05:12:06 -0500" Type="Text">
             <Title>Non-Fiction Format</Title>
@@ -190,13 +190,14 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="60" UUID="27972D7A-70B1-4C9E-94F1-EC2EEECE6D23" Created="2018-01-10 21:45:06 -0500" Modified="2018-01-10 21:45:11 -0500" Type="Text">
+                        <BinderItem ID="60" UUID="27972D7A-70B1-4C9E-94F1-EC2EEECE6D23" Created="2018-01-10 21:45:06 -0500" Modified="2018-03-13 10:06:40 -0500" Type="Text">
                             <Title>Foundation</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <Target Type="Words">0</Target>
+                                <TextSelection>1103,0</TextSelection>
+                                <Target Type="Words">180</Target>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="61" UUID="C90C3EAC-4B79-4785-9D7C-679A9D56D8EB" Created="2018-01-10 21:45:16 -0500" Modified="2018-03-12 22:22:19 -0500" Type="Text">
@@ -3248,7 +3249,7 @@
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>11247,0</TextSelection>
+                                <TextSelection>502,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -3591,7 +3592,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="868" Characters="4862" Date="2018-03-12 19:28:23 -0500"/>
+        <PreviousSession Words="194" Characters="1105" Date="2018-03-13 09:08:05 -0500"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.901961 0.917647 0.933333">
