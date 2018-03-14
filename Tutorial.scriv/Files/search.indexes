@@ -184,6 +184,8 @@ Comments come in a variety of colours, try right-clicking on this comment.
 This is a footnote. In order for footnotes to get exported properly, it’s important to add them in such a way that the link ends exactly as you want the footnote to appear in the exported or printed text.
 Elizabeth, 5/14/2017 6:47:01 PM
 My first comment!
+thighsmi, 3/13/2018 2:20:20 PM
+First comment
 Elizabeth, 5/14/2017 6:47:52 PM
 My Second Comment
 My first footnote</Comments>
@@ -591,6 +593,11 @@ Sample Title
 You can also merge documents. Selecting several documents in the binder and then choosing Documents &gt; Merge will merge the selected documents into one. Select the top “Step 17…” item in the Binder, and then Shift-click on the “Sample Title” document. Use Documents &gt; Merge to join them back together. A single empty line will be inserted in between each of the merged documents to make it easier to see where the joins were.
 
 Next we’ll look at some of the text options available in Scrivener. Click on “Step 18” in the binder.</Text>
+            <Notes>
+
+
+
+</Notes>
         </Document>
         <Document ID="163">
             <Title>Step 23: And Finally...</Title>
